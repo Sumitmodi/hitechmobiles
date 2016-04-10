@@ -1,0 +1,14 @@
+body, html{ margin:30px 0; font-size:12px; font-family:Arial; }
+table, tr, td, input, .form-control, ul, li { font-size:12px; }
+h2{ font-size:20px; text-transform: uppercase;}
+.container{ width:98%;  }
+.buttons{ margin-bottom:10px; }
+.floatleft{ float:left; }
+.width50{ width:50%; }
+.width45{ width:45%; }
+.marginLeft5{ margin-left:5%;}
+.submitBox{ width:100%; background:#eee; text-align:center; padding:20px; }
+.clear{ clear:both; }
+.selected {    background: #bdf;}
+.floatright{ float:right; }
+thead th{ cursor: pointer; }

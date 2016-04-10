@@ -1,0 +1,689 @@
+[
+{"city": "ACMAR", "loc": [-86.51557, 33.584132], "pop": 6055, "state": "AL", "_id": "35004"}
+,{"city": "ADAMSVILLE", "loc": [-86.959727, 33.588437], "pop": 10616, "state": "AL", "_id": "35005"}
+,{"city": "ADGER", "loc": [-87.167455, 33.434277], "pop": 3205, "state": "AL", "_id": "35006"}
+,{"city": "KEYSTONE", "loc": [-86.812861, 33.236868], "pop": 14218, "state": "AL", "_id": "35007"}
+,{"city": "NEW SITE", "loc": [-85.951086, 32.941445], "pop": 19942, "state": "AL", "_id": "35010"}
+,{"city": "ALPINE", "loc": [-86.208934, 33.331165], "pop": 3062, "state": "AL", "_id": "35014"}
+,{"city": "ARAB", "loc": [-86.489638, 34.328339], "pop": 13650, "state": "AL", "_id": "35016"}
+,{"city": "BAILEYTON", "loc": [-86.621299, 34.268298], "pop": 1781, "state": "AL", "_id": "35019"}
+,{"city": "BESSEMER", "loc": [-86.947547, 33.409002], "pop": 40549, "state": "AL", "_id": "35020"}
+,{"city": "HUEYTOWN", "loc": [-86.999607, 33.414625], "pop": 39677, "state": "AL", "_id": "35023"}
+,{"city": "BLOUNTSVILLE", "loc": [-86.568628, 34.092937], "pop": 9058, "state": "AL", "_id": "35031"}
+,{"city": "BREMEN", "loc": [-87.004281, 33.973664], "pop": 3448, "state": "AL", "_id": "35033"}
+,{"city": "BRENT", "loc": [-87.211387, 32.93567], "pop": 3791, "state": "AL", "_id": "35034"}
+,{"city": "BRIERFIELD", "loc": [-86.951672, 33.042747], "pop": 1282, "state": "AL", "_id": "35035"}
+,{"city": "CALERA", "loc": [-86.755987, 33.1098], "pop": 4675, "state": "AL", "_id": "35040"}
+,{"city": "CENTREVILLE", "loc": [-87.11924, 32.950324], "pop": 4902, "state": "AL", "_id": "35042"}
+,{"city": "CHELSEA", "loc": [-86.614132, 33.371582], "pop": 4781, "state": "AL", "_id": "35043"}
+,{"city": "COOSA PINES", "loc": [-86.337622, 33.266928], "pop": 7985, "state": "AL", "_id": "35044"}
+,{"city": "CLANTON", "loc": [-86.642472, 32.835532], "pop": 13990, "state": "AL", "_id": "35045"}
+,{"city": "CLEVELAND", "loc": [-86.559355, 33.992106], "pop": 2369, "state": "AL", "_id": "35049"}
+,{"city": "COLUMBIANA", "loc": [-86.616145, 33.176964], "pop": 4486, "state": "AL", "_id": "35051"}
+,{"city": "CRANE HILL", "loc": [-87.048395, 34.082117], "pop": 2270, "state": "AL", "_id": "35053"}
+,{"city": "CROPWELL", "loc": [-86.280026, 33.506448], "pop": 4171, "state": "AL", "_id": "35054"}
+,{"city": "CULLMAN", "loc": [-86.829777, 34.176146], "pop": 31708, "state": "AL", "_id": "35055"}
+,{"city": "DOLOMITE", "loc": [-86.956435, 33.465424], "pop": 1476, "state": "AL", "_id": "35061"}
+,{"city": "DORA", "loc": [-87.040148, 33.734947], "pop": 11017, "state": "AL", "_id": "35062"}
+,{"city": "EMPIRE", "loc": [-87.016139, 33.825589], "pop": 2429, "state": "AL", "_id": "35063"}
+,{"city": "FAIRFIELD", "loc": [-86.918262, 33.473494], "pop": 12106, "state": "AL", "_id": "35064"}
+,{"city": "COALBURG", "loc": [-86.813614, 33.611283], "pop": 5909, "state": "AL", "_id": "35068"}
+,{"city": "GARDENDALE", "loc": [-86.822481, 33.71891], "pop": 17968, "state": "AL", "_id": "35071"}
+,{"city": "GOODWATER", "loc": [-86.078149, 33.074642], "pop": 3813, "state": "AL", "_id": "35072"}
+,{"city": "ALDEN", "loc": [-86.948221, 33.63356], "pop": 4429, "state": "AL", "_id": "35073"}
+,{"city": "HANCEVILLE", "loc": [-86.784844, 34.051569], "pop": 10186, "state": "AL", "_id": "35077"}
+,{"city": "HARPERSVILLE", "loc": [-86.429441, 33.36746], "pop": 4905, "state": "AL", "_id": "35078"}
+,{"city": "HAYDEN", "loc": [-86.81767, 33.885806], "pop": 6533, "state": "AL", "_id": "35079"}
+,{"city": "HELENA", "loc": [-86.813786, 33.316978], "pop": 9938, "state": "AL", "_id": "35080"}
+,{"city": "HOLLY POND", "loc": [-86.617441, 34.190085], "pop": 3838, "state": "AL", "_id": "35083"}
+,{"city": "JEMISON", "loc": [-86.718052, 32.980539], "pop": 7202, "state": "AL", "_id": "35085"}
+,{"city": "JOPPA", "loc": [-86.551939, 34.283739], "pop": 987, "state": "AL", "_id": "35087"}
+,{"city": "KELLYTON", "loc": [-86.048397, 32.979068], "pop": 1584, "state": "AL", "_id": "35089"}
+,{"city": "KIMBERLY", "loc": [-86.808417, 33.768355], "pop": 1045, "state": "AL", "_id": "35091"}
+,{"city": "LEEDS", "loc": [-86.574824, 33.528333], "pop": 10421, "state": "AL", "_id": "35094"}
+,{"city": "LINCOLN", "loc": [-86.111152, 33.605913], "pop": 5033, "state": "AL", "_id": "35096"}
+,{"city": "LOGAN", "loc": [-87.038115, 34.184079], "pop": 2379, "state": "AL", "_id": "35098"}
+,{"city": "MC CALLA", "loc": [-87.102379, 33.284546], "pop": 8147, "state": "AL", "_id": "35111"}
+,{"city": "MAYLENE", "loc": [-86.872745, 33.231694], "pop": 3727, "state": "AL", "_id": "35114"}
+,{"city": "MONTEVALLO", "loc": [-86.862228, 33.124765], "pop": 11638, "state": "AL", "_id": "35115"}
+,{"city": "MORRIS", "loc": [-86.772551, 33.739172], "pop": 3622, "state": "AL", "_id": "35116"}
+,{"city": "MOUNT OLIVE", "loc": [-86.87171, 33.67678], "pop": 3841, "state": "AL", "_id": "35117"}
+,{"city": "SYLVAN SPRINGS", "loc": [-87.043998, 33.540696], "pop": 3948, "state": "AL", "_id": "35118"}
+,{"city": "ODENVILLE", "loc": [-86.408952, 33.675611], "pop": 1123, "state": "AL", "_id": "35120"}
+,{"city": "ONEONTA", "loc": [-86.474118, 33.925858], "pop": 8956, "state": "AL", "_id": "35121"}
+,{"city": "INDIAN SPRINGS", "loc": [-86.806176, 33.31046], "pop": 7412, "state": "AL", "_id": "35124"}
+,{"city": "PELL CITY", "loc": [-86.343151, 33.597889], "pop": 17981, "state": "AL", "_id": "35125"}
+,{"city": "DIXIANA", "loc": [-86.656542, 33.708131], "pop": 17068, "state": "AL", "_id": "35126"}
+,{"city": "PLEASANT GROVE", "loc": [-86.976586, 33.488336], "pop": 8458, "state": "AL", "_id": "35127"}
+,{"city": "QUINTON", "loc": [-87.10066, 33.656065], "pop": 2198, "state": "AL", "_id": "35130"}
+,{"city": "RAGLAND", "loc": [-86.1619, 33.736677], "pop": 2797, "state": "AL", "_id": "35131"}
+,{"city": "REMLAP", "loc": [-86.641662, 33.846204], "pop": 6013, "state": "AL", "_id": "35133"}
+,{"city": "RIVERSIDE", "loc": [-86.198341, 33.608832], "pop": 1004, "state": "AL", "_id": "35135"}
+,{"city": "ROCKFORD", "loc": [-86.240006, 32.877957], "pop": 1819, "state": "AL", "_id": "35136"}
+,{"city": "SHELBY", "loc": [-86.553606, 33.078483], "pop": 1846, "state": "AL", "_id": "35143"}
+,{"city": "SPRINGVILLE", "loc": [-86.439407, 33.738647], "pop": 8723, "state": "AL", "_id": "35146"}
+,{"city": "STERRETT", "loc": [-86.491732, 33.446103], "pop": 617, "state": "AL", "_id": "35147"}
+,{"city": "SUMITON", "loc": [-87.044545, 33.768005], "pop": 3066, "state": "AL", "_id": "35148"}
+,{"city": "SYLACAUGA", "loc": [-86.271257, 33.171675], "pop": 24424, "state": "AL", "_id": "35150"}
+,{"city": "TALLADEGA", "loc": [-86.113352, 33.435445], "pop": 29778, "state": "AL", "_id": "35160"}
+,{"city": "THORSBY", "loc": [-86.746724, 32.923755], "pop": 4131, "state": "AL", "_id": "35171"}
+,{"city": "TRAFFORD", "loc": [-86.743414, 33.819038], "pop": 909, "state": "AL", "_id": "35172"}
+,{"city": "TRUSSVILLE", "loc": [-86.598068, 33.633932], "pop": 13367, "state": "AL", "_id": "35173"}
+,{"city": "UNION GROVE", "loc": [-86.462793, 34.409345], "pop": 4921, "state": "AL", "_id": "35175"}
+,{"city": "VANDIVER", "loc": [-86.501278, 33.480704], "pop": 1066, "state": "AL", "_id": "35176"}
+,{"city": "VINCENT", "loc": [-86.399425, 33.401049], "pop": 295, "state": "AL", "_id": "35178"}
+,{"city": "VINEMONT", "loc": [-86.912512, 34.262121], "pop": 8852, "state": "AL", "_id": "35179"}
+,{"city": "WARRIOR", "loc": [-86.819849, 33.852862], "pop": 530, "state": "AL", "_id": "35180"}
+,{"city": "WEOGUFKA", "loc": [-86.304203, 33.02381], "pop": 1249, "state": "AL", "_id": "35183"}
+,{"city": "WEST BLOCTON", "loc": [-87.13694, 33.142431], "pop": 5276, "state": "AL", "_id": "35184"}
+,{"city": "WILSONVILLE", "loc": [-86.529894, 33.229255], "pop": 5224, "state": "AL", "_id": "35186"}
+,{"city": "WOODSTOCK", "loc": [-87.163469, 33.169808], "pop": 691, "state": "AL", "_id": "35188"}
+,{"city": "BIRMINGHAM", "loc": [-86.806626, 33.520994], "pop": 4064, "state": "AL", "_id": "35203"}
+,{"city": "BIRMINGHAM", "loc": [-86.837198, 33.51795], "pop": 18193, "state": "AL", "_id": "35204"}
+,{"city": "BIRMINGHAM", "loc": [-86.805937, 33.495144], "pop": 23024, "state": "AL", "_id": "35205"}
+,{"city": "BIRMINGHAM", "loc": [-86.719854, 33.567797], "pop": 22050, "state": "AL", "_id": "35206"}
+,{"city": "BIRMINGHAM", "loc": [-86.815344, 33.559383], "pop": 13901, "state": "AL", "_id": "35207"}
+,{"city": "BIRMINGHAM", "loc": [-86.879884, 33.497658], "pop": 19328, "state": "AL", "_id": "35208"}
+,{"city": "HOMEWOOD", "loc": [-86.806738, 33.469624], "pop": 24973, "state": "AL", "_id": "35209"}
+,{"city": "IRONDALE", "loc": [-86.685697, 33.532797], "pop": 15047, "state": "AL", "_id": "35210"}
+,{"city": "BIRMINGHAM", "loc": [-86.85904, 33.481565], "pop": 35836, "state": "AL", "_id": "35211"}
+,{"city": "BIRMINGHAM", "loc": [-86.749524, 33.540883], "pop": 17865, "state": "AL", "_id": "35212"}
+,{"city": "CRESTLINE HEIGHT", "loc": [-86.742108, 33.508195], "pop": 13191, "state": "AL", "_id": "35213"}
+,{"city": "BIRMINGHAM", "loc": [-86.886989, 33.555445], "pop": 23293, "state": "AL", "_id": "35214"}
+,{"city": "CENTER POINT", "loc": [-86.693197, 33.635447], "pop": 43862, "state": "AL", "_id": "35215"}
+,{"city": "VESTAVIA HILLS", "loc": [-86.790425, 33.41531], "pop": 29224, "state": "AL", "_id": "35216"}
+,{"city": "BIRMINGHAM", "loc": [-86.764995, 33.5887], "pop": 17366, "state": "AL", "_id": "35217"}
+,{"city": "BIRMINGHAM", "loc": [-86.892993, 33.505972], "pop": 12137, "state": "AL", "_id": "35218"}
+,{"city": "BIRMINGHAM", "loc": [-86.893493, 33.452316], "pop": 5850, "state": "AL", "_id": "35221"}
+,{"city": "BIRMINGHAM", "loc": [-86.766579, 33.521859], "pop": 10035, "state": "AL", "_id": "35222"}
+,{"city": "MOUNTAIN BROOK", "loc": [-86.736584, 33.488726], "pop": 11117, "state": "AL", "_id": "35223"}
+,{"city": "BIRMINGHAM", "loc": [-86.934193, 33.519126], "pop": 7894, "state": "AL", "_id": "35224"}
+,{"city": "BLUFF PARK", "loc": [-86.831257, 33.403675], "pop": 23992, "state": "AL", "_id": "35226"}
+,{"city": "MIDFIELD", "loc": [-86.914703, 33.462446], "pop": 9294, "state": "AL", "_id": "35228"}
+,{"city": "BIRMINGHAM", "loc": [-86.800257, 33.506161], "pop": 842, "state": "AL", "_id": "35233"}
+,{"city": "BIRMINGHAM", "loc": [-86.80685, 33.53775], "pop": 10928, "state": "AL", "_id": "35234"}
+,{"city": "CENTER POINT", "loc": [-86.661051, 33.618045], "pop": 15873, "state": "AL", "_id": "35235"}
+,{"city": "SHOAL CREEK", "loc": [-86.705511, 33.401559], "pop": 16228, "state": "AL", "_id": "35242"}
+,{"city": "CAHABA HEIGHTS", "loc": [-86.743676, 33.446053], "pop": 13091, "state": "AL", "_id": "35243"}
+,{"city": "HOOVER", "loc": [-86.776381, 33.371776], "pop": 9758, "state": "AL", "_id": "35244"}
+,{"city": "TUSCALOOSA", "loc": [-87.562666, 33.196891], "pop": 42124, "state": "AL", "_id": "35401"}
+,{"city": "HOLT", "loc": [-87.488079, 33.210914], "pop": 21997, "state": "AL", "_id": "35404"}
+,{"city": "TUSCALOOSA", "loc": [-87.514435, 33.161704], "pop": 23663, "state": "AL", "_id": "35405"}
+,{"city": "TUSCALOOSA", "loc": [-87.536035, 33.272174], "pop": 12578, "state": "AL", "_id": "35406"}
+,{"city": "STEWART", "loc": [-87.708558, 32.872354], "pop": 1745, "state": "AL", "_id": "35441"}
+,{"city": "ALICEVILLE", "loc": [-88.166689, 33.122813], "pop": 5196, "state": "AL", "_id": "35442"}
+,{"city": "BOLIGEE", "loc": [-88.026652, 32.774646], "pop": 1073, "state": "AL", "_id": "35443"}
+,{"city": "BROOKWOOD", "loc": [-87.309025, 33.277523], "pop": 2319, "state": "AL", "_id": "35444"}
+,{"city": "BUHL", "loc": [-87.718886, 33.249448], "pop": 1662, "state": "AL", "_id": "35446"}
+,{"city": "CARROLLTON", "loc": [-88.132122, 33.248506], "pop": 5007, "state": "AL", "_id": "35447"}
+,{"city": "COKER", "loc": [-87.636528, 33.252612], "pop": 5747, "state": "AL", "_id": "35452"}
+,{"city": "COTTONDALE", "loc": [-87.387051, 33.176667], "pop": 4727, "state": "AL", "_id": "35453"}
+,{"city": "DUNCANVILLE", "loc": [-87.494977, 33.082815], "pop": 5514, "state": "AL", "_id": "35456"}
+,{"city": "ECHOLA", "loc": [-87.807202, 33.316559], "pop": 223, "state": "AL", "_id": "35457"}
+,{"city": "ELROD", "loc": [-87.801429, 33.343678], "pop": 809, "state": "AL", "_id": "35458"}
+,{"city": "EMELLE", "loc": [-88.305747, 32.754963], "pop": 491, "state": "AL", "_id": "35459"}
+,{"city": "EPES", "loc": [-88.161443, 32.763371], "pop": 1391, "state": "AL", "_id": "35460"}
+,{"city": "ETHELSVILLE", "loc": [-88.221987, 33.386816], "pop": 719, "state": "AL", "_id": "35461"}
+,{"city": "EUTAW", "loc": [-87.930297, 32.888871], "pop": 6586, "state": "AL", "_id": "35462"}
+,{"city": "FOSTERS", "loc": [-87.735688, 33.135859], "pop": 2100, "state": "AL", "_id": "35463"}
+,{"city": "GAINESVILLE", "loc": [-88.271558, 32.908364], "pop": 1051, "state": "AL", "_id": "35464"}
+,{"city": "GORDO", "loc": [-87.900504, 33.346917], "pop": 4333, "state": "AL", "_id": "35466"}
+,{"city": "KNOXVILLE", "loc": [-87.791855, 32.982423], "pop": 373, "state": "AL", "_id": "35469"}
+,{"city": "COATOPA", "loc": [-88.173592, 32.588509], "pop": 6055, "state": "AL", "_id": "35470"}
+,{"city": "CYPRESS", "loc": [-87.615134, 32.978853], "pop": 2659, "state": "AL", "_id": "35474"}
+,{"city": "NORTHPORT", "loc": [-87.591441, 33.283425], "pop": 20114, "state": "AL", "_id": "35476"}
+,{"city": "RALPH", "loc": [-87.744984, 33.062868], "pop": 927, "state": "AL", "_id": "35480"}
+,{"city": "REFORM", "loc": [-88.020277, 33.395945], "pop": 4062, "state": "AL", "_id": "35481"}
+,{"city": "VANCE", "loc": [-87.257362, 33.17498], "pop": 1234, "state": "AL", "_id": "35490"}
+,{"city": "JASPER", "loc": [-87.249144, 33.871672], "pop": 30600, "state": "AL", "_id": "35501"}
+,{"city": "ADDISON", "loc": [-87.194766, 34.205571], "pop": 3263, "state": "AL", "_id": "35540"}
+,{"city": "ARLEY", "loc": [-87.182761, 34.063234], "pop": 2645, "state": "AL", "_id": "35541"}
+,{"city": "BANKSTON", "loc": [-87.68965, 33.70083], "pop": 651, "state": "AL", "_id": "35542"}
+,{"city": "BEAR CREEK", "loc": [-87.686083, 34.213469], "pop": 3748, "state": "AL", "_id": "35543"}
+,{"city": "BEAVERTON", "loc": [-88.01567, 33.942877], "pop": 1014, "state": "AL", "_id": "35544"}
+,{"city": "BERRY", "loc": [-87.622563, 33.694485], "pop": 4887, "state": "AL", "_id": "35546"}
+,{"city": "BRILLIANT", "loc": [-87.756315, 34.037702], "pop": 2515, "state": "AL", "_id": "35548"}
+,{"city": "CARBON HILL", "loc": [-87.540328, 33.909252], "pop": 3597, "state": "AL", "_id": "35549"}
+,{"city": "CORDOVA", "loc": [-87.18406, 33.768033], "pop": 5273, "state": "AL", "_id": "35550"}
+,{"city": "DETROIT", "loc": [-88.16063, 34.010874], "pop": 938, "state": "AL", "_id": "35552"}
+,{"city": "DOUBLE SPRINGS", "loc": [-87.397431, 34.138682], "pop": 4797, "state": "AL", "_id": "35553"}
+,{"city": "ELDRIDGE", "loc": [-87.619397, 33.931546], "pop": 421, "state": "AL", "_id": "35554"}
+,{"city": "FAYETTE", "loc": [-87.834647, 33.697397], "pop": 10776, "state": "AL", "_id": "35555"}
+,{"city": "GUIN", "loc": [-87.90238, 33.967624], "pop": 3948, "state": "AL", "_id": "35563"}
+,{"city": "HACKLEBURG", "loc": [-87.860762, 34.267803], "pop": 2828, "state": "AL", "_id": "35564"}
+,{"city": "HALEYVILLE", "loc": [-87.593811, 34.231423], "pop": 9141, "state": "AL", "_id": "35565"}
+,{"city": "HAMILTON", "loc": [-88.008521, 34.153413], "pop": 11184, "state": "AL", "_id": "35570"}
+,{"city": "HODGES", "loc": [-87.959023, 34.341664], "pop": 798, "state": "AL", "_id": "35571"}
+,{"city": "HOUSTON", "loc": [-87.26183, 34.118042], "pop": 429, "state": "AL", "_id": "35572"}
+,{"city": "KENNEDY", "loc": [-88.05172, 33.574964], "pop": 3618, "state": "AL", "_id": "35574"}
+,{"city": "LYNN", "loc": [-87.539814, 34.052984], "pop": 1778, "state": "AL", "_id": "35575"}
+,{"city": "MILLPORT", "loc": [-88.200003, 33.54013], "pop": 2286, "state": "AL", "_id": "35576"}
+,{"city": "NAUVOO", "loc": [-87.432449, 33.929859], "pop": 5004, "state": "AL", "_id": "35578"}
+,{"city": "OAKMAN", "loc": [-87.368574, 33.700174], "pop": 3700, "state": "AL", "_id": "35579"}
+,{"city": "PARRISH", "loc": [-87.265773, 33.721307], "pop": 4775, "state": "AL", "_id": "35580"}
+,{"city": "PHIL CAMPBELL", "loc": [-87.715431, 34.347018], "pop": 5345, "state": "AL", "_id": "35581"}
+,{"city": "RED BAY", "loc": [-88.112914, 34.451259], "pop": 5159, "state": "AL", "_id": "35582"}
+,{"city": "SPRUCE PINE", "loc": [-87.712149, 34.384796], "pop": 465, "state": "AL", "_id": "35585"}
+,{"city": "SULLIGENT", "loc": [-88.150774, 33.8549], "pop": 4489, "state": "AL", "_id": "35586"}
+,{"city": "TOWNLEY", "loc": [-87.437248, 33.84702], "pop": 1819, "state": "AL", "_id": "35587"}
+,{"city": "VERNON", "loc": [-88.097919, 33.761285], "pop": 4752, "state": "AL", "_id": "35592"}
+,{"city": "VINA", "loc": [-88.077422, 34.37116], "pop": 888, "state": "AL", "_id": "35593"}
+,{"city": "WINFIELD", "loc": [-87.79716, 33.930256], "pop": 6750, "state": "AL", "_id": "35594"}
+,{"city": "DECATUR", "loc": [-86.98868, 34.589599], "pop": 36696, "state": "AL", "_id": "35601"}
+,{"city": "DECATUR", "loc": [-87.000389, 34.548417], "pop": 17861, "state": "AL", "_id": "35603"}
+,{"city": "ANDERSON", "loc": [-87.272327, 34.951777], "pop": 2039, "state": "AL", "_id": "35610"}
+,{"city": "ATHENS", "loc": [-86.970733, 34.803604], "pop": 35441, "state": "AL", "_id": "35611"}
+,{"city": "CHEROKEE", "loc": [-87.972445, 34.744188], "pop": 4811, "state": "AL", "_id": "35616"}
+,{"city": "COURTLAND", "loc": [-87.314255, 34.671866], "pop": 2733, "state": "AL", "_id": "35618"}
+,{"city": "DANVILLE", "loc": [-87.053187, 34.452189], "pop": 4614, "state": "AL", "_id": "35619"}
+,{"city": "ELKMONT", "loc": [-86.910452, 34.915241], "pop": 8013, "state": "AL", "_id": "35620"}
+,{"city": "EVA", "loc": [-86.704427, 34.347778], "pop": 3977, "state": "AL", "_id": "35621"}
+,{"city": "FALKVILLE", "loc": [-86.913086, 34.347653], "pop": 5392, "state": "AL", "_id": "35622"}
+,{"city": "FLORENCE", "loc": [-87.655985, 34.830547], "pop": 38725, "state": "AL", "_id": "35630"}
+,{"city": "FLORENCE", "loc": [-87.739778, 34.882471], "pop": 16478, "state": "AL", "_id": "35633"}
+,{"city": "HARTSELLE", "loc": [-86.924235, 34.448206], "pop": 17963, "state": "AL", "_id": "35640"}
+,{"city": "HILLSBORO", "loc": [-87.180379, 34.64763], "pop": 1967, "state": "AL", "_id": "35643"}
+,{"city": "KILLEN", "loc": [-87.508185, 34.901632], "pop": 11758, "state": "AL", "_id": "35645"}
+,{"city": "LEIGHTON", "loc": [-87.522133, 34.710982], "pop": 3046, "state": "AL", "_id": "35646"}
+,{"city": "LESTER", "loc": [-87.143396, 34.918364], "pop": 3108, "state": "AL", "_id": "35647"}
+,{"city": "LEXINGTON", "loc": [-87.393519, 34.955924], "pop": 2241, "state": "AL", "_id": "35648"}
+,{"city": "MOULTON", "loc": [-87.222385, 34.505836], "pop": 17288, "state": "AL", "_id": "35650"}
+,{"city": "MOUNT HOPE", "loc": [-87.451453, 34.462969], "pop": 1821, "state": "AL", "_id": "35651"}
+,{"city": "ROGERSVILLE", "loc": [-87.323671, 34.849544], "pop": 6521, "state": "AL", "_id": "35652"}
+,{"city": "RUSSELLVILLE", "loc": [-87.725726, 34.506568], "pop": 17767, "state": "AL", "_id": "35653"}
+,{"city": "SHEFFIELD", "loc": [-87.697057, 34.757829], "pop": 10685, "state": "AL", "_id": "35660"}
+,{"city": "MUSCLE SHOALS", "loc": [-87.630443, 34.756136], "pop": 11777, "state": "AL", "_id": "35661"}
+,{"city": "SOMERVILLE", "loc": [-86.800931, 34.499548], "pop": 5184, "state": "AL", "_id": "35670"}
+,{"city": "TANNER", "loc": [-86.989152, 34.713037], "pop": 2578, "state": "AL", "_id": "35671"}
+,{"city": "TOWN CREEK", "loc": [-87.426195, 34.649138], "pop": 9049, "state": "AL", "_id": "35672"}
+,{"city": "TRINITY", "loc": [-87.09127, 34.591771], "pop": 1758, "state": "AL", "_id": "35673"}
+,{"city": "TUSCUMBIA", "loc": [-87.683259, 34.687432], "pop": 17880, "state": "AL", "_id": "35674"}
+,{"city": "WATERLOO", "loc": [-87.962412, 34.93568], "pop": 1899, "state": "AL", "_id": "35677"}
+,{"city": "ARDMORE", "loc": [-86.834612, 34.980447], "pop": 1898, "state": "AL", "_id": "35739"}
+,{"city": "BRIDGEPORT", "loc": [-85.727681, 34.944638], "pop": 3988, "state": "AL", "_id": "35740"}
+,{"city": "BROWNSBORO", "loc": [-86.468703, 34.716733], "pop": 1793, "state": "AL", "_id": "35741"}
+,{"city": "DUTTON", "loc": [-85.906729, 34.604558], "pop": 2948, "state": "AL", "_id": "35744"}
+,{"city": "ESTILLFORK", "loc": [-86.171571, 34.913017], "pop": 718, "state": "AL", "_id": "35745"}
+,{"city": "FACKLER", "loc": [-85.984648, 34.82589], "pop": 396, "state": "AL", "_id": "35746"}
+,{"city": "GRANT", "loc": [-86.259041, 34.495902], "pop": 8345, "state": "AL", "_id": "35747"}
+,{"city": "GURLEY", "loc": [-86.394028, 34.713964], "pop": 4642, "state": "AL", "_id": "35748"}
+,{"city": "HARVEST", "loc": [-86.749929, 34.82732], "pop": 5701, "state": "AL", "_id": "35749"}
+,{"city": "HAZEL GREEN", "loc": [-86.593484, 34.949627], "pop": 7751, "state": "AL", "_id": "35750"}
+,{"city": "HOLLYTREE", "loc": [-86.233627, 34.798979], "pop": 260, "state": "AL", "_id": "35751"}
+,{"city": "HOLLYWOOD", "loc": [-85.953173, 34.730428], "pop": 2038, "state": "AL", "_id": "35752"}
+,{"city": "LACEYS SPRING", "loc": [-86.612869, 34.499647], "pop": 7040, "state": "AL", "_id": "35754"}
+,{"city": "LANGSTON", "loc": [-86.10563, 34.497831], "pop": 1041, "state": "AL", "_id": "35755"}
+,{"city": "TRIANA", "loc": [-86.750951, 34.713409], "pop": 24398, "state": "AL", "_id": "35758"}
+,{"city": "MERIDIANVILLE", "loc": [-86.578879, 34.861779], "pop": 2597, "state": "AL", "_id": "35759"}
+,{"city": "NEW HOPE", "loc": [-86.3961, 34.549445], "pop": 4075, "state": "AL", "_id": "35760"}
+,{"city": "NEW MARKET", "loc": [-86.448742, 34.899991], "pop": 5825, "state": "AL", "_id": "35761"}
+,{"city": "BIG COVE", "loc": [-86.466577, 34.612859], "pop": 3156, "state": "AL", "_id": "35763"}
+,{"city": "PAINT ROCK", "loc": [-86.332562, 34.667122], "pop": 553, "state": "AL", "_id": "35764"}
+,{"city": "PISGAH", "loc": [-85.803044, 34.688601], "pop": 3717, "state": "AL", "_id": "35765"}
+,{"city": "PRINCETON", "loc": [-86.250068, 34.840217], "pop": 273, "state": "AL", "_id": "35766"}
+,{"city": "HYTOP", "loc": [-86.051336, 34.67227], "pop": 16934, "state": "AL", "_id": "35768"}
+,{"city": "SECTION", "loc": [-85.994002, 34.543275], "pop": 2590, "state": "AL", "_id": "35771"}
+,{"city": "STEVENSON", "loc": [-85.850803, 34.876885], "pop": 5210, "state": "AL", "_id": "35772"}
+,{"city": "TONEY", "loc": [-86.699951, 34.911644], "pop": 5953, "state": "AL", "_id": "35773"}
+,{"city": "TRENTON", "loc": [-86.291264, 34.740065], "pop": 381, "state": "AL", "_id": "35774"}
+,{"city": "VALHERMOSO SPRIN", "loc": [-86.678, 34.538145], "pop": 667, "state": "AL", "_id": "35775"}
+,{"city": "WOODVILLE", "loc": [-86.22961, 34.668927], "pop": 2222, "state": "AL", "_id": "35776"}
+,{"city": "HUNTSVILLE", "loc": [-86.567318, 34.726866], "pop": 25513, "state": "AL", "_id": "35801"}
+,{"city": "HUNTSVILLE", "loc": [-86.560347, 34.667922], "pop": 21069, "state": "AL", "_id": "35802"}
+,{"city": "HUNTSVILLE", "loc": [-86.55096, 34.620506], "pop": 23380, "state": "AL", "_id": "35803"}
+,{"city": "HUNTSVILLE", "loc": [-86.616493, 34.705943], "pop": 24637, "state": "AL", "_id": "35805"}
+,{"city": "HUNTSVILLE", "loc": [-86.670411, 34.744765], "pop": 10121, "state": "AL", "_id": "35806"}
+,{"city": "HUNTSVILLE", "loc": [-86.653821, 34.684525], "pop": 4988, "state": "AL", "_id": "35808"}
+,{"city": "HUNTSVILLE", "loc": [-86.609063, 34.778378], "pop": 32896, "state": "AL", "_id": "35810"}
+,{"city": "HUNTSVILLE", "loc": [-86.543786, 34.778949], "pop": 19008, "state": "AL", "_id": "35811"}
+,{"city": "HUNTSVILLE", "loc": [-86.624948, 34.738864], "pop": 13736, "state": "AL", "_id": "35816"}
+,{"city": "HUNTSVILLE", "loc": [-86.729486, 34.658321], "pop": 770, "state": "AL", "_id": "35824"}
+,{"city": "SOUTHSIDE", "loc": [-86.010279, 33.997248], "pop": 44165, "state": "AL", "_id": "35901"}
+,{"city": "HOKES BLUFF", "loc": [-85.928724, 33.997057], "pop": 20057, "state": "AL", "_id": "35903"}
+,{"city": "GADSDEN", "loc": [-86.049479, 34.021694], "pop": 7002, "state": "AL", "_id": "35904"}
+,{"city": "GLENCOE", "loc": [-85.927586, 33.956787], "pop": 4256, "state": "AL", "_id": "35905"}
+,{"city": "ALBERTVILLE", "loc": [-86.206447, 34.273859], "pop": 21033, "state": "AL", "_id": "35950"}
+,{"city": "SNEAD", "loc": [-86.350879, 34.042916], "pop": 9472, "state": "AL", "_id": "35952"}
+,{"city": "ASHVILLE", "loc": [-86.255167, 33.837366], "pop": 5988, "state": "AL", "_id": "35953"}
+,{"city": "ATTALLA", "loc": [-86.096717, 34.029597], "pop": 11904, "state": "AL", "_id": "35954"}
+,{"city": "BOAZ", "loc": [-86.148003, 34.173686], "pop": 16955, "state": "AL", "_id": "35957"}
+,{"city": "BRYANT", "loc": [-85.632445, 34.945026], "pop": 1700, "state": "AL", "_id": "35958"}
+,{"city": "CEDAR BLUFF", "loc": [-85.602567, 34.241662], "pop": 3574, "state": "AL", "_id": "35959"}
+,{"city": "CENTRE", "loc": [-85.609229, 34.111592], "pop": 10294, "state": "AL", "_id": "35960"}
+,{"city": "COLLINSVILLE", "loc": [-85.861969, 34.267957], "pop": 3245, "state": "AL", "_id": "35961"}
+,{"city": "CROSSVILLE", "loc": [-86.030575, 34.258784], "pop": 4874, "state": "AL", "_id": "35962"}
+,{"city": "DAWSON", "loc": [-85.929161, 34.356838], "pop": 1531, "state": "AL", "_id": "35963"}
+,{"city": "FLAT ROCK", "loc": [-85.708372, 34.807598], "pop": 2141, "state": "AL", "_id": "35966"}
+,{"city": "FORT PAYNE", "loc": [-85.712394, 34.436792], "pop": 15893, "state": "AL", "_id": "35967"}
+,{"city": "FYFFE", "loc": [-85.928849, 34.437284], "pop": 3453, "state": "AL", "_id": "35971"}
+,{"city": "GALLANT", "loc": [-86.234606, 33.997586], "pop": 337, "state": "AL", "_id": "35972"}
+,{"city": "GAYLESVILLE", "loc": [-85.558893, 34.357324], "pop": 2291, "state": "AL", "_id": "35973"}
+,{"city": "GERALDINE", "loc": [-86.040393, 34.343864], "pop": 3291, "state": "AL", "_id": "35974"}
+,{"city": "GROVEOAK", "loc": [-86.040023, 34.435874], "pop": 1098, "state": "AL", "_id": "35975"}
+,{"city": "GUNTERSVILLE", "loc": [-86.305463, 34.32193], "pop": 11234, "state": "AL", "_id": "35976"}
+,{"city": "HENAGAR", "loc": [-85.727381, 34.618604], "pop": 2973, "state": "AL", "_id": "35978"}
+,{"city": "HIGDON", "loc": [-85.622507, 34.873247], "pop": 1324, "state": "AL", "_id": "35979"}
+,{"city": "HORTON", "loc": [-86.317318, 34.190033], "pop": 4195, "state": "AL", "_id": "35980"}
+,{"city": "IDER", "loc": [-85.641577, 34.735059], "pop": 5161, "state": "AL", "_id": "35981"}
+,{"city": "LEESBURG", "loc": [-85.77051, 34.191083], "pop": 3189, "state": "AL", "_id": "35983"}
+,{"city": "OGEMA", "loc": [-90.256513, 45.439187], "pop": 1459, "state": "WI", "_id": "54459"}
+,{"city": "OWEN", "loc": [-90.5469, 44.957817], "pop": 1759, "state": "WI", "_id": "54460"}
+,{"city": "PEARSON", "loc": [-89.075824, 45.388119], "pop": 679, "state": "WI", "_id": "54462"}
+,{"city": "PELICAN LAKE", "loc": [-89.181707, 45.504886], "pop": 635, "state": "WI", "_id": "54463"}
+,{"city": "PICKEREL", "loc": [-88.91365, 45.356658], "pop": 269, "state": "WI", "_id": "54465"}
+,{"city": "PITTSVILLE", "loc": [-90.189174, 44.43747], "pop": 2754, "state": "WI", "_id": "54466"}
+,{"city": "PLOVER", "loc": [-89.542805, 44.450673], "pop": 6142, "state": "WI", "_id": "54467"}
+,{"city": "PORT EDWARDS", "loc": [-89.865246, 44.349705], "pop": 1828, "state": "WI", "_id": "54469"}
+,{"city": "RIB LAKE", "loc": [-90.176322, 45.298376], "pop": 2002, "state": "WI", "_id": "54470"}
+,{"city": "RINGLE", "loc": [-89.432845, 44.92383], "pop": 1370, "state": "WI", "_id": "54471"}
+,{"city": "ROSHOLT", "loc": [-89.335637, 44.662224], "pop": 3147, "state": "WI", "_id": "54473"}
+,{"city": "ROTHSCHILD", "loc": [-89.619262, 44.88429], "pop": 3867, "state": "WI", "_id": "54474"}
+,{"city": "RUDOLPH", "loc": [-89.800252, 44.474061], "pop": 1648, "state": "WI", "_id": "54475"}
+,{"city": "SCHOFIELD", "loc": [-89.581789, 44.906407], "pop": 12583, "state": "WI", "_id": "54476"}
+,{"city": "SPENCER", "loc": [-90.311406, 44.739148], "pop": 2997, "state": "WI", "_id": "54479"}
+,{"city": "STETSONVILLE", "loc": [-90.282931, 45.07923], "pop": 1241, "state": "WI", "_id": "54480"}
+,{"city": "STEVENS POINT", "loc": [-89.558764, 44.521221], "pop": 38950, "state": "WI", "_id": "54481"}
+,{"city": "STRATFORD", "loc": [-90.058317, 44.789878], "pop": 4201, "state": "WI", "_id": "54484"}
+,{"city": "SUMMIT LAKE", "loc": [-89.180743, 45.320414], "pop": 616, "state": "WI", "_id": "54485"}
+,{"city": "TIGERTON", "loc": [-89.056893, 44.729938], "pop": 3310, "state": "WI", "_id": "54486"}
+,{"city": "TOMAHAWK", "loc": [-89.727269, 45.496308], "pop": 8130, "state": "WI", "_id": "54487"}
+,{"city": "UNITY", "loc": [-90.322074, 44.822676], "pop": 1797, "state": "WI", "_id": "54488"}
+,{"city": "VESPER", "loc": [-89.982553, 44.467656], "pop": 1616, "state": "WI", "_id": "54489"}
+,{"city": "WESTBORO", "loc": [-90.307194, 45.344539], "pop": 766, "state": "WI", "_id": "54490"}
+,{"city": "WHITE LAKE", "loc": [-88.755489, 45.171465], "pop": 1324, "state": "WI", "_id": "54491"}
+,{"city": "WILLARD", "loc": [-90.749897, 44.727378], "pop": 682, "state": "WI", "_id": "54493"}
+,{"city": "WISCONSIN RAPIDS", "loc": [-89.806229, 44.375803], "pop": 33296, "state": "WI", "_id": "54494"}
+,{"city": "WITHEE", "loc": [-90.604862, 44.975726], "pop": 2286, "state": "WI", "_id": "54498"}
+,{"city": "WITTENBERG", "loc": [-89.166479, 44.823247], "pop": 1850, "state": "WI", "_id": "54499"}
+,{"city": "MONICO", "loc": [-89.409285, 45.646718], "pop": 19039, "state": "WI", "_id": "54501"}
+,{"city": "CAVOUR", "loc": [-88.888566, 45.658309], "pop": 1533, "state": "WI", "_id": "54511"}
+,{"city": "BOULDER JUNCTION", "loc": [-89.632454, 46.111183], "pop": 563, "state": "WI", "_id": "54512"}
+,{"city": "BRANTWOOD", "loc": [-90.115952, 45.551413], "pop": 540, "state": "WI", "_id": "54513"}
+,{"city": "BUTTERNUT", "loc": [-90.482114, 46.018358], "pop": 2054, "state": "WI", "_id": "54514"}
+,{"city": "CATAWBA", "loc": [-90.514564, 45.508123], "pop": 616, "state": "WI", "_id": "54515"}
+,{"city": "CLAM LAKE", "loc": [-90.884107, 46.245675], "pop": 2, "state": "WI", "_id": "54517"}
+,{"city": "CONOVER", "loc": [-89.238919, 46.043968], "pop": 1039, "state": "WI", "_id": "54519"}
+,{"city": "CRANDON", "loc": [-88.911619, 45.541553], "pop": 3419, "state": "WI", "_id": "54520"}
+,{"city": "EAGLE RIVER", "loc": [-89.253058, 45.916084], "pop": 6726, "state": "WI", "_id": "54521"}
+,{"city": "FIFIELD", "loc": [-90.4246, 45.862148], "pop": 496, "state": "WI", "_id": "54524"}
+,{"city": "INGRAM", "loc": [-90.855183, 45.488807], "pop": 949, "state": "WI", "_id": "54526"}
+,{"city": "GLIDDEN", "loc": [-90.588856, 46.133668], "pop": 1061, "state": "WI", "_id": "54527"}
+,{"city": "HARSHAW", "loc": [-89.650346, 45.676244], "pop": 854, "state": "WI", "_id": "54529"}
+,{"city": "HAWKINS", "loc": [-90.711373, 45.524129], "pop": 747, "state": "WI", "_id": "54530"}
+,{"city": "HAZELHURST", "loc": [-89.747836, 45.77446], "pop": 1057, "state": "WI", "_id": "54531"}
+,{"city": "HURLEY", "loc": [-90.1975, 46.44482], "pop": 2658, "state": "WI", "_id": "54534"}
+,{"city": "IRON BELT", "loc": [-90.324528, 46.395545], "pop": 265, "state": "WI", "_id": "54536"}
+,{"city": "KENNAN", "loc": [-90.590987, 45.53497], "pop": 628, "state": "WI", "_id": "54537"}
+,{"city": "LAC DU FLAMBEAU", "loc": [-89.890078, 45.97175], "pop": 2085, "state": "WI", "_id": "54538"}
+,{"city": "LAKE TOMAHAWK", "loc": [-89.585609, 45.803455], "pop": 1223, "state": "WI", "_id": "54539"}
+,{"city": "LAND O LAKES", "loc": [-89.321787, 46.156305], "pop": 742, "state": "WI", "_id": "54540"}
+,{"city": "LAONA", "loc": [-88.671525, 45.553416], "pop": 1823, "state": "WI", "_id": "54541"}
+,{"city": "ALVIN", "loc": [-88.695308, 45.921841], "pop": 550, "state": "WI", "_id": "54542"}
+,{"city": "MANITOWISH WATER", "loc": [-89.830767, 46.123909], "pop": 901, "state": "WI", "_id": "54545"}
+,{"city": "MELLEN", "loc": [-90.655233, 46.300659], "pop": 1752, "state": "WI", "_id": "54546"}
+,{"city": "MERCER", "loc": [-90.067914, 46.169594], "pop": 1321, "state": "WI", "_id": "54547"}
+,{"city": "MINOCQUA", "loc": [-89.757954, 45.871909], "pop": 3793, "state": "WI", "_id": "54548"}
+,{"city": "PENCE", "loc": [-90.244195, 46.425736], "pop": 1019, "state": "WI", "_id": "54550"}
+,{"city": "PARK FALLS", "loc": [-90.424648, 45.936345], "pop": 5316, "state": "WI", "_id": "54552"}
+,{"city": "PHELPS", "loc": [-89.081547, 46.064481], "pop": 1183, "state": "WI", "_id": "54554"}
+,{"city": "PHILLIPS", "loc": [-90.404131, 45.697463], "pop": 5155, "state": "WI", "_id": "54555"}
+,{"city": "PRENTICE", "loc": [-90.294217, 45.548201], "pop": 1177, "state": "WI", "_id": "54556"}
+,{"city": "WINCHESTER", "loc": [-89.772795, 46.221735], "pop": 735, "state": "WI", "_id": "54557"}
+,{"city": "SAINT GERMAIN", "loc": [-89.486556, 45.918315], "pop": 1201, "state": "WI", "_id": "54558"}
+,{"city": "SAXON", "loc": [-90.438273, 46.495855], "pop": 478, "state": "WI", "_id": "54559"}
+,{"city": "SAYNER", "loc": [-89.519437, 45.986664], "pop": 559, "state": "WI", "_id": "54560"}
+,{"city": "THREE LAKES", "loc": [-89.132792, 45.804633], "pop": 1755, "state": "WI", "_id": "54562"}
+,{"city": "TONY", "loc": [-90.986938, 45.474082], "pop": 814, "state": "WI", "_id": "54563"}
+,{"city": "TRIPOLI", "loc": [-89.985218, 45.581387], "pop": 374, "state": "WI", "_id": "54564"}
+,{"city": "UPSON", "loc": [-90.405135, 46.376124], "pop": 69, "state": "WI", "_id": "54565"}
+,{"city": "WABENO", "loc": [-88.662456, 45.433172], "pop": 1308, "state": "WI", "_id": "54566"}
+,{"city": "WOODRUFF", "loc": [-89.69545, 45.918583], "pop": 4088, "state": "WI", "_id": "54568"}
+,{"city": "LA CROSSE", "loc": [-91.217494, 43.798938], "pop": 48348, "state": "WI", "_id": "54601"}
+,{"city": "LA CROSSE", "loc": [-91.248439, 43.848675], "pop": 15292, "state": "WI", "_id": "54603"}
+,{"city": "ALMA", "loc": [-91.807931, 44.429437], "pop": 3824, "state": "WI", "_id": "54610"}
+,{"city": "ALMA CENTER", "loc": [-90.935602, 44.445218], "pop": 989, "state": "WI", "_id": "54611"}
+,{"city": "ARCADIA", "loc": [-91.480453, 44.253937], "pop": 4707, "state": "WI", "_id": "54612"}
+,{"city": "ARKDALE", "loc": [-89.896215, 44.052886], "pop": 1582, "state": "WI", "_id": "54613"}
+,{"city": "BANGOR", "loc": [-90.980888, 43.868697], "pop": 1952, "state": "WI", "_id": "54614"}
+,{"city": "BLACK RIVER FALL", "loc": [-90.847952, 44.292101], "pop": 8248, "state": "WI", "_id": "54615"}
+,{"city": "BLAIR", "loc": [-91.223501, 44.296843], "pop": 2347, "state": "WI", "_id": "54616"}
+,{"city": "BLOOM CITY", "loc": [-90.666458, 43.509034], "pop": 437, "state": "WI", "_id": "54617"}
+,{"city": "CUTLER", "loc": [-90.268861, 43.936705], "pop": 1613, "state": "WI", "_id": "54618"}
+,{"city": "CASHTON", "loc": [-90.761197, 43.745649], "pop": 1547, "state": "WI", "_id": "54619"}
+,{"city": "CHASEBURG", "loc": [-91.079934, 43.679372], "pop": 550, "state": "WI", "_id": "54621"}
+,{"city": "WAUMANDEE", "loc": [-91.858677, 44.251591], "pop": 2271, "state": "WI", "_id": "54622"}
+,{"city": "COON VALLEY", "loc": [-91.014338, 43.721783], "pop": 1402, "state": "WI", "_id": "54623"}
+,{"city": "VICTORY", "loc": [-91.193015, 43.494707], "pop": 1422, "state": "WI", "_id": "54624"}
+,{"city": "DODGE", "loc": [-91.524341, 44.12886], "pop": 397, "state": "WI", "_id": "54625"}
+,{"city": "EASTMAN", "loc": [-91.01927, 43.19592], "pop": 1064, "state": "WI", "_id": "54626"}
+,{"city": "ETTRICK", "loc": [-91.263546, 44.172428], "pop": 1644, "state": "WI", "_id": "54627"}
+,{"city": "FERRYVILLE", "loc": [-91.044578, 43.395857], "pop": 1411, "state": "WI", "_id": "54628"}
+,{"city": "FOUNTAIN CITY", "loc": [-91.677861, 44.136436], "pop": 2481, "state": "WI", "_id": "54629"}
+,{"city": "GALESVILLE", "loc": [-91.358789, 44.088848], "pop": 3111, "state": "WI", "_id": "54630"}
+,{"city": "GAYS MILLS", "loc": [-90.867636, 43.293639], "pop": 2577, "state": "WI", "_id": "54631"}
+,{"city": "GENOA", "loc": [-91.134999, 43.605134], "pop": 1432, "state": "WI", "_id": "54632"}
+,{"city": "YUBA", "loc": [-90.370595, 43.635009], "pop": 2309, "state": "WI", "_id": "54634"}
+,{"city": "NORTHFIELD", "loc": [-91.039086, 44.397778], "pop": 1513, "state": "WI", "_id": "54635"}
+,{"city": "HOLMEN", "loc": [-91.2497, 43.976125], "pop": 7098, "state": "WI", "_id": "54636"}
+,{"city": "KENDALL", "loc": [-90.410691, 43.81614], "pop": 1848, "state": "WI", "_id": "54638"}
+,{"city": "WEST LIMA", "loc": [-90.648257, 43.616955], "pop": 3280, "state": "WI", "_id": "54639"}
+,{"city": "MATHER", "loc": [-90.295264, 44.147706], "pop": 57, "state": "WI", "_id": "54641"}
+,{"city": "MELROSE", "loc": [-91.044463, 44.138156], "pop": 1806, "state": "WI", "_id": "54642"}
+,{"city": "MINDORO", "loc": [-91.064181, 44.02873], "pop": 1157, "state": "WI", "_id": "54644"}
+,{"city": "NECEDAH", "loc": [-90.059976, 44.034481], "pop": 2741, "state": "WI", "_id": "54646"}
+,{"city": "NORWALK", "loc": [-90.680134, 43.812823], "pop": 2360, "state": "WI", "_id": "54648"}
+,{"city": "ONALASKA", "loc": [-91.231419, 43.897392], "pop": 16435, "state": "WI", "_id": "54650"}
+,{"city": "ONTARIO", "loc": [-90.620534, 43.717197], "pop": 1032, "state": "WI", "_id": "54651"}
+,{"city": "READSTOWN", "loc": [-90.757872, 43.450791], "pop": 736, "state": "WI", "_id": "54652"}
+,{"city": "ROCKLAND", "loc": [-90.948846, 43.938159], "pop": 1486, "state": "WI", "_id": "54653"}
+,{"city": "SOLDIERS GROVE", "loc": [-90.766293, 43.391857], "pop": 1621, "state": "WI", "_id": "54655"}
+,{"city": "SPARTA", "loc": [-90.814566, 43.954045], "pop": 14151, "state": "WI", "_id": "54656"}
+,{"city": "STEUBEN", "loc": [-90.860878, 43.195464], "pop": 63, "state": "WI", "_id": "54657"}
+,{"city": "STODDARD", "loc": [-91.19188, 43.691227], "pop": 2116, "state": "WI", "_id": "54658"}
+,{"city": "TAYLOR", "loc": [-91.112752, 44.289855], "pop": 1205, "state": "WI", "_id": "54659"}
+,{"city": "WYEVILLE", "loc": [-90.491704, 43.994833], "pop": 14294, "state": "WI", "_id": "54660"}
+,{"city": "TREMPEALEAU", "loc": [-91.4282, 44.021843], "pop": 2370, "state": "WI", "_id": "54661"}
+,{"city": "VIOLA", "loc": [-90.655416, 43.504758], "pop": 718, "state": "WI", "_id": "54664"}
+,{"city": "VIROQUA", "loc": [-90.893865, 43.54419], "pop": 7071, "state": "WI", "_id": "54665"}
+,{"city": "WARRENS", "loc": [-90.496692, 44.15697], "pop": 1089, "state": "WI", "_id": "54666"}
+,{"city": "WESTBY", "loc": [-90.87403, 43.663123], "pop": 4290, "state": "WI", "_id": "54667"}
+,{"city": "WEST SALEM", "loc": [-91.089311, 43.906253], "pop": 5244, "state": "WI", "_id": "54669"}
+,{"city": "WILTON", "loc": [-90.516185, 43.832209], "pop": 1188, "state": "WI", "_id": "54670"}
+,{"city": "EAU CLAIRE", "loc": [-91.487686, 44.783972], "pop": 31593, "state": "WI", "_id": "54701"}
+,{"city": "EAU CLAIRE", "loc": [-91.499701, 44.827122], "pop": 38400, "state": "WI", "_id": "54703"}
+,{"city": "ALTOONA", "loc": [-91.43825, 44.802142], "pop": 6065, "state": "WI", "_id": "54720"}
+,{"city": "ARKANSAW", "loc": [-92.056646, 44.626659], "pop": 1099, "state": "WI", "_id": "54721"}
+,{"city": "AUGUSTA", "loc": [-91.123154, 44.694737], "pop": 3402, "state": "WI", "_id": "54722"}
+,{"city": "BAY CITY", "loc": [-92.446889, 44.6166], "pop": 1540, "state": "WI", "_id": "54723"}
+,{"city": "BLOOMER", "loc": [-91.489974, 45.102477], "pop": 6410, "state": "WI", "_id": "54724"}
+,{"city": "BOYCEVILLE", "loc": [-92.024803, 45.064238], "pop": 2520, "state": "WI", "_id": "54725"}
+,{"city": "BOYD", "loc": [-91.029355, 44.943737], "pop": 2549, "state": "WI", "_id": "54726"}
+,{"city": "CADOTT", "loc": [-91.169884, 44.963014], "pop": 4397, "state": "WI", "_id": "54727"}
+,{"city": "CHETEK", "loc": [-91.654154, 45.317046], "pop": 5453, "state": "WI", "_id": "54728"}
+,{"city": "CHIPPEWA FALLS", "loc": [-91.384376, 44.932202], "pop": 25627, "state": "WI", "_id": "54729"}
+,{"city": "COLFAX", "loc": [-91.735737, 44.999326], "pop": 4073, "state": "WI", "_id": "54730"}
+,{"city": "CONRATH", "loc": [-91.062132, 45.353281], "pop": 758, "state": "WI", "_id": "54731"}
+,{"city": "CORNELL", "loc": [-91.173252, 45.16191], "pop": 2799, "state": "WI", "_id": "54732"}
+,{"city": "DALLAS", "loc": [-91.836844, 45.254883], "pop": 973, "state": "WI", "_id": "54733"}
+,{"city": "DOWNING", "loc": [-92.113384, 45.103032], "pop": 1029, "state": "WI", "_id": "54734"}
+,{"city": "DURAND", "loc": [-91.929476, 44.630042], "pop": 3746, "state": "WI", "_id": "54736"}
+,{"city": "EAU GALLE", "loc": [-92.040816, 44.721433], "pop": 921, "state": "WI", "_id": "54737"}
+,{"city": "ELEVA", "loc": [-91.48037, 44.598493], "pop": 2291, "state": "WI", "_id": "54738"}
+,{"city": "ELK MOUND", "loc": [-91.675229, 44.866973], "pop": 3539, "state": "WI", "_id": "54739"}
+,{"city": "ELMWOOD", "loc": [-92.202195, 44.756088], "pop": 1759, "state": "WI", "_id": "54740"}
+,{"city": "FAIRCHILD", "loc": [-90.990568, 44.596253], "pop": 1319, "state": "WI", "_id": "54741"}
+,{"city": "FALL CREEK", "loc": [-91.285631, 44.768385], "pop": 3814, "state": "WI", "_id": "54742"}
+,{"city": "HILLSDALE", "loc": [-91.859857, 45.32136], "pop": 560, "state": "WI", "_id": "54744"}
+,{"city": "HOLCOMBE", "loc": [-91.132955, 45.251263], "pop": 1752, "state": "WI", "_id": "54745"}
+,{"city": "HUMBIRD", "loc": [-90.888257, 44.536676], "pop": 633, "state": "WI", "_id": "54746"}
+,{"city": "INDEPENDENCE", "loc": [-91.453511, 44.395926], "pop": 2826, "state": "WI", "_id": "54747"}
+,{"city": "JIM FALLS", "loc": [-91.264909, 45.064439], "pop": 974, "state": "WI", "_id": "54748"}
+,{"city": "KNAPP", "loc": [-92.075201, 44.954495], "pop": 935, "state": "WI", "_id": "54749"}
+,{"city": "MAIDEN ROCK", "loc": [-92.278212, 44.608599], "pop": 1503, "state": "WI", "_id": "54750"}
+,{"city": "MENOMONIE", "loc": [-91.92651, 44.87182], "pop": 21211, "state": "WI", "_id": "54751"}
+,{"city": "MERRILLAN", "loc": [-90.810496, 44.436938], "pop": 1317, "state": "WI", "_id": "54754"}
+,{"city": "MODENA", "loc": [-91.669576, 44.609853], "pop": 4907, "state": "WI", "_id": "54755"}
+,{"city": "NELSON", "loc": [-92.000742, 44.42947], "pop": 652, "state": "WI", "_id": "54756"}
+,{"city": "NEW AUBURN", "loc": [-91.519747, 45.23562], "pop": 2101, "state": "WI", "_id": "54757"}
+,{"city": "OSSEO", "loc": [-91.219148, 44.559923], "pop": 4347, "state": "WI", "_id": "54758"}
+,{"city": "PEPIN", "loc": [-92.139353, 44.458687], "pop": 1504, "state": "WI", "_id": "54759"}
+,{"city": "PLUM CITY", "loc": [-92.183725, 44.635979], "pop": 1050, "state": "WI", "_id": "54761"}
+,{"city": "PRAIRIE FARM", "loc": [-91.974205, 45.246183], "pop": 1061, "state": "WI", "_id": "54762"}
+,{"city": "RIDGELAND", "loc": [-91.879024, 45.186773], "pop": 863, "state": "WI", "_id": "54763"}
+,{"city": "SAND CREEK", "loc": [-91.701446, 45.170513], "pop": 501, "state": "WI", "_id": "54765"}
+,{"city": "SHELDON", "loc": [-90.914148, 45.318171], "pop": 1711, "state": "WI", "_id": "54766"}
+,{"city": "SPRING VALLEY", "loc": [-92.290599, 44.835569], "pop": 2746, "state": "WI", "_id": "54767"}
+,{"city": "STANLEY", "loc": [-90.938935, 44.968872], "pop": 3157, "state": "WI", "_id": "54768"}
+,{"city": "STOCKHOLM", "loc": [-92.228429, 44.500441], "pop": 434, "state": "WI", "_id": "54769"}
+,{"city": "STRUM", "loc": [-91.383271, 44.567356], "pop": 1560, "state": "WI", "_id": "54770"}
+,{"city": "THORP", "loc": [-90.802861, 44.957319], "pop": 4803, "state": "WI", "_id": "54771"}
+,{"city": "WHEELER", "loc": [-91.887055, 45.071856], "pop": 1094, "state": "WI", "_id": "54772"}
+,{"city": "WHITEHALL", "loc": [-91.302953, 44.382683], "pop": 3330, "state": "WI", "_id": "54773"}
+,{"city": "SPOONER", "loc": [-91.91555, 45.850468], "pop": 5384, "state": "WI", "_id": "54801"}
+,{"city": "ALMENA", "loc": [-92.002691, 45.419507], "pop": 3180, "state": "WI", "_id": "54805"}
+,{"city": "MOQUAH", "loc": [-90.876712, 46.577948], "pop": 12254, "state": "WI", "_id": "54806"}
+,{"city": "BALSAM LAKE", "loc": [-92.414954, 45.458845], "pop": 1765, "state": "WI", "_id": "54810"}
+,{"city": "BARRON", "loc": [-91.84996, 45.400535], "pop": 4049, "state": "WI", "_id": "54812"}
+,{"city": "BARRONETT", "loc": [-92.019595, 45.618995], "pop": 804, "state": "WI", "_id": "54813"}
+,{"city": "BAYFIELD", "loc": [-90.821681, 46.835359], "pop": 2375, "state": "WI", "_id": "54814"}
+,{"city": "BIRCHWOOD", "loc": [-91.577564, 45.640296], "pop": 1962, "state": "WI", "_id": "54817"}
+,{"city": "BRUCE", "loc": [-91.290622, 45.447923], "pop": 2654, "state": "WI", "_id": "54819"}
+,{"city": "BRULE", "loc": [-91.553862, 46.576318], "pop": 902, "state": "WI", "_id": "54820"}
+,{"city": "CABLE", "loc": [-91.224438, 46.217155], "pop": 1311, "state": "WI", "_id": "54821"}
+,{"city": "CAMERON", "loc": [-91.730992, 45.403836], "pop": 3314, "state": "WI", "_id": "54822"}
+,{"city": "CENTURIA", "loc": [-92.547741, 45.448369], "pop": 1791, "state": "WI", "_id": "54824"}
+,{"city": "COMSTOCK", "loc": [-92.085961, 45.491114], "pop": 473, "state": "WI", "_id": "54826"}
+,{"city": "CORNUCOPIA", "loc": [-91.097421, 46.837171], "pop": 242, "state": "WI", "_id": "54827"}
+,{"city": "NEW POST", "loc": [-91.327825, 45.809664], "pop": 377, "state": "WI", "_id": "54828"}
+,{"city": "CUMBERLAND", "loc": [-92.029709, 45.5403], "pop": 4229, "state": "WI", "_id": "54829"}
+,{"city": "DAIRYLAND", "loc": [-92.265995, 46.029681], "pop": 1855, "state": "WI", "_id": "54830"}
+,{"city": "DRUMMOND", "loc": [-91.285569, 46.311896], "pop": 329, "state": "WI", "_id": "54832"}
+,{"city": "EXELAND", "loc": [-91.223819, 45.675298], "pop": 939, "state": "WI", "_id": "54835"}
+,{"city": "FOXBORO", "loc": [-92.149254, 46.487511], "pop": 1528, "state": "WI", "_id": "54836"}
+,{"city": "CLAM FALLS", "loc": [-92.426482, 45.665314], "pop": 4011, "state": "WI", "_id": "54837"}
+,{"city": "GORDON", "loc": [-91.803301, 46.233603], "pop": 1088, "state": "WI", "_id": "54838"}
+,{"city": "GRAND VIEW", "loc": [-91.107465, 46.357682], "pop": 280, "state": "WI", "_id": "54839"}
+,{"city": "EVERGREEN", "loc": [-92.662685, 45.761312], "pop": 4008, "state": "WI", "_id": "54840"}
+,{"city": "NORTH WOODS BEAC", "loc": [-91.397659, 46.001404], "pop": 9339, "state": "WI", "_id": "54843"}
+,{"city": "HERBSTER", "loc": [-91.233193, 46.82128], "pop": 230, "state": "WI", "_id": "54844"}
+,{"city": "HERTEL", "loc": [-92.140419, 45.807561], "pop": 110, "state": "WI", "_id": "54845"}
+,{"city": "HIGH BRIDGE", "loc": [-90.73826, 46.379613], "pop": 536, "state": "WI", "_id": "54846"}
+,{"city": "IRON RIVER", "loc": [-91.421056, 46.578984], "pop": 1777, "state": "WI", "_id": "54847"}
+,{"city": "LADYSMITH", "loc": [-91.108804, 45.471941], "pop": 6737, "state": "WI", "_id": "54848"}
+,{"city": "LAKE NEBAGAMON", "loc": [-91.740243, 46.502347], "pop": 1824, "state": "WI", "_id": "54849"}
+,{"city": "LA POINTE", "loc": [-90.603622, 46.846675], "pop": 17, "state": "WI", "_id": "54850"}
+,{"city": "LUCK", "loc": [-92.416391, 45.556799], "pop": 2131, "state": "WI", "_id": "54853"}
+,{"city": "MAPLE", "loc": [-91.702015, 46.620591], "pop": 891, "state": "WI", "_id": "54854"}
+,{"city": "MARENGO", "loc": [-90.839991, 46.407112], "pop": 592, "state": "WI", "_id": "54855"}
+,{"city": "DELTA", "loc": [-91.057511, 46.457285], "pop": 1519, "state": "WI", "_id": "54856"}
+,{"city": "MILLTOWN", "loc": [-92.501739, 45.527082], "pop": 1570, "state": "WI", "_id": "54858"}
+,{"city": "MINONG", "loc": [-91.850628, 46.10445], "pop": 1451, "state": "WI", "_id": "54859"}
+,{"city": "OJIBWA", "loc": [-91.110922, 45.785351], "pop": 401, "state": "WI", "_id": "54862"}
+,{"city": "POPLAR", "loc": [-91.825345, 46.57708], "pop": 1064, "state": "WI", "_id": "54864"}
+,{"city": "PORT WING", "loc": [-91.392016, 46.76204], "pop": 544, "state": "WI", "_id": "54865"}
+,{"city": "RADISSON", "loc": [-91.22615, 45.773359], "pop": 509, "state": "WI", "_id": "54867"}
+,{"city": "CANTON", "loc": [-91.733544, 45.510466], "pop": 13996, "state": "WI", "_id": "54868"}
+,{"city": "SARONA", "loc": [-91.762103, 45.708532], "pop": 1201, "state": "WI", "_id": "54870"}
+,{"city": "SHELL LAKE", "loc": [-91.960606, 45.753598], "pop": 3450, "state": "WI", "_id": "54871"}
+,{"city": "SIREN", "loc": [-92.389151, 45.78214], "pop": 2495, "state": "WI", "_id": "54872"}
+,{"city": "BARNES", "loc": [-91.770154, 46.388821], "pop": 2443, "state": "WI", "_id": "54873"}
+,{"city": "WENTWORTH", "loc": [-91.945805, 46.588659], "pop": 3029, "state": "WI", "_id": "54874"}
+,{"city": "EARL", "loc": [-91.677734, 45.960384], "pop": 970, "state": "WI", "_id": "54875"}
+,{"city": "STONE LAKE", "loc": [-91.509291, 45.833733], "pop": 1662, "state": "WI", "_id": "54876"}
+,{"city": "SUPERIOR", "loc": [-92.091174, 46.701552], "pop": 29513, "state": "WI", "_id": "54880"}
+,{"city": "TREGO", "loc": [-91.858051, 45.951556], "pop": 1037, "state": "WI", "_id": "54888"}
+,{"city": "TURTLE LAKE", "loc": [-92.178142, 45.421349], "pop": 2048, "state": "WI", "_id": "54889"}
+,{"city": "WASHBURN", "loc": [-90.909516, 46.680595], "pop": 3177, "state": "WI", "_id": "54891"}
+,{"city": "WEBSTER", "loc": [-92.322722, 45.874001], "pop": 3012, "state": "WI", "_id": "54893"}
+,{"city": "WEYERHAEUSER", "loc": [-91.428944, 45.426347], "pop": 858, "state": "WI", "_id": "54895"}
+,{"city": "LORETTA", "loc": [-90.949591, 45.841419], "pop": 1385, "state": "WI", "_id": "54896"}
+,{"city": "OSHKOSH", "loc": [-88.543635, 44.021962], "pop": 57187, "state": "WI", "_id": "54901"}
+,{"city": "OSHKOSH", "loc": [-88.607015, 44.030356], "pop": 12608, "state": "WI", "_id": "54904"}
+,{"city": "ALMOND", "loc": [-89.358364, 44.289832], "pop": 2002, "state": "WI", "_id": "54909"}
+,{"city": "APPLETON", "loc": [-88.397649, 44.277325], "pop": 25970, "state": "WI", "_id": "54911"}
+,{"city": "APPLETON", "loc": [-88.432608, 44.270992], "pop": 23028, "state": "WI", "_id": "54914"}
+,{"city": "APPLETON", "loc": [-88.399902, 44.26351], "pop": 42119, "state": "WI", "_id": "54915"}
+,{"city": "BANCROFT", "loc": [-89.530438, 44.30648], "pop": 1368, "state": "WI", "_id": "54921"}
+,{"city": "BEAR CREEK", "loc": [-88.740375, 44.5348], "pop": 1488, "state": "WI", "_id": "54922"}
+,{"city": "BERLIN", "loc": [-88.949009, 43.976936], "pop": 8132, "state": "WI", "_id": "54923"}
+,{"city": "CAROLINE", "loc": [-88.888749, 44.727574], "pop": 293, "state": "WI", "_id": "54928"}
+,{"city": "CLINTONVILLE", "loc": [-88.742999, 44.636442], "pop": 8902, "state": "WI", "_id": "54929"}
+,{"city": "COLOMA", "loc": [-89.494332, 44.027462], "pop": 1364, "state": "WI", "_id": "54930"}
+,{"city": "ELDORADO", "loc": [-88.638827, 43.841471], "pop": 765, "state": "WI", "_id": "54932"}
+,{"city": "TAYCHEEDAH", "loc": [-88.429149, 43.770446], "pop": 37093, "state": "WI", "_id": "54935"}
+,{"city": "NORTH FOND DU LA", "loc": [-88.481264, 43.792633], "pop": 14665, "state": "WI", "_id": "54937"}
+,{"city": "FREMONT", "loc": [-88.844852, 44.237884], "pop": 3211, "state": "WI", "_id": "54940"}
+,{"city": "GREEN LAKE", "loc": [-88.96847, 43.844383], "pop": 2504, "state": "WI", "_id": "54941"}
+,{"city": "GREENVILLE", "loc": [-88.569579, 44.299747], "pop": 1722, "state": "WI", "_id": "54942"}
+,{"city": "HANCOCK", "loc": [-89.534448, 44.129743], "pop": 1214, "state": "WI", "_id": "54943"}
+,{"city": "HORTONVILLE", "loc": [-88.62813, 44.327306], "pop": 5602, "state": "WI", "_id": "54944"}
+,{"city": "IOLA", "loc": [-89.137311, 44.532183], "pop": 2589, "state": "WI", "_id": "54945"}
+,{"city": "KING", "loc": [-89.113739, 44.267332], "pop": 661, "state": "WI", "_id": "54946"}
+,{"city": "LARSEN", "loc": [-88.696305, 44.198421], "pop": 1863, "state": "WI", "_id": "54947"}
+,{"city": "LEOPOLIS", "loc": [-88.872223, 44.781188], "pop": 403, "state": "WI", "_id": "54948"}
+,{"city": "MANAWA", "loc": [-88.916444, 44.470148], "pop": 2749, "state": "WI", "_id": "54949"}
+,{"city": "MARION", "loc": [-88.876706, 44.679414], "pop": 3071, "state": "WI", "_id": "54950"}
+,{"city": "MENASHA", "loc": [-88.417536, 44.211164], "pop": 22505, "state": "WI", "_id": "54952"}
+,{"city": "NEENAH", "loc": [-88.479201, 44.181094], "pop": 34261, "state": "WI", "_id": "54956"}
+,{"city": "NESHKORO", "loc": [-89.233572, 43.898943], "pop": 2210, "state": "WI", "_id": "54960"}
+,{"city": "NEW LONDON", "loc": [-88.755428, 44.392847], "pop": 13037, "state": "WI", "_id": "54961"}
+,{"city": "OGDENSBURG", "loc": [-89.011851, 44.467803], "pop": 1509, "state": "WI", "_id": "54962"}
+,{"city": "OMRO", "loc": [-88.751933, 44.035678], "pop": 5678, "state": "WI", "_id": "54963"}
+,{"city": "PICKETT", "loc": [-88.713457, 43.900917], "pop": 518, "state": "WI", "_id": "54964"}
+,{"city": "PINE RIVER", "loc": [-89.040415, 44.160393], "pop": 2148, "state": "WI", "_id": "54965"}
+,{"city": "PLAINFIELD", "loc": [-89.455896, 44.209079], "pop": 2336, "state": "WI", "_id": "54966"}
+,{"city": "POY SIPPI", "loc": [-88.926835, 44.110069], "pop": 232, "state": "WI", "_id": "54967"}
+,{"city": "PRINCETON", "loc": [-89.124913, 43.843827], "pop": 3101, "state": "WI", "_id": "54968"}
+,{"city": "REDGRANITE", "loc": [-89.098125, 44.04381], "pop": 2093, "state": "WI", "_id": "54970"}
+,{"city": "RIPON", "loc": [-88.842433, 43.845402], "pop": 10694, "state": "WI", "_id": "54971"}
+,{"city": "ROSENDALE", "loc": [-88.641704, 43.788903], "pop": 2012, "state": "WI", "_id": "54974"}
+,{"city": "SCANDINAVIA", "loc": [-89.165042, 44.460436], "pop": 1097, "state": "WI", "_id": "54977"}
+,{"city": "TILLEDA", "loc": [-88.907498, 44.811812], "pop": 58, "state": "WI", "_id": "54978"}
+,{"city": "VAN DYNE", "loc": [-88.510008, 43.873399], "pop": 1403, "state": "WI", "_id": "54979"}
+,{"city": "WAUPACA", "loc": [-89.110143, 44.348101], "pop": 11716, "state": "WI", "_id": "54981"}
+,{"city": "WAUTOMA", "loc": [-89.266551, 44.065576], "pop": 6318, "state": "WI", "_id": "54982"}
+,{"city": "WEYAUWEGA", "loc": [-88.941047, 44.320973], "pop": 3886, "state": "WI", "_id": "54983"}
+,{"city": "WILD ROSE", "loc": [-89.195252, 44.183433], "pop": 2127, "state": "WI", "_id": "54984"}
+,{"city": "WINNECONNE", "loc": [-88.721384, 44.118704], "pop": 3887, "state": "WI", "_id": "54986"}
+,{"city": "CHEYENNE", "loc": [-104.796234, 41.143719], "pop": 33107, "state": "WY", "_id": "82001"}
+,{"city": "CHEYENNE", "loc": [-104.810745, 41.108433], "pop": 15050, "state": "WY", "_id": "82007"}
+,{"city": "CHEYENNE", "loc": [-104.802328, 41.183566], "pop": 22028, "state": "WY", "_id": "82009"}
+,{"city": "ALBIN", "loc": [-104.150542, 41.434237], "pop": 310, "state": "WY", "_id": "82050"}
+,{"city": "LARAMIE", "loc": [-105.819708, 41.562721], "pop": 22, "state": "WY", "_id": "82051"}
+,{"city": "BUFORD", "loc": [-105.469697, 41.142115], "pop": 97, "state": "WY", "_id": "82052"}
+,{"city": "BURNS", "loc": [-104.315521, 41.200297], "pop": 1303, "state": "WY", "_id": "82053"}
+,{"city": "CARPENTER", "loc": [-104.276514, 41.042819], "pop": 222, "state": "WY", "_id": "82054"}
+,{"city": "CENTENNIAL", "loc": [-105.99451, 41.339149], "pop": 446, "state": "WY", "_id": "82055"}
+,{"city": "82057", "loc": [-106.164358, 41.070928], "pop": 60, "state": "WY", "_id": "82057"}
+,{"city": "GARRETT", "loc": [-105.550534, 42.142015], "pop": 120, "state": "WY", "_id": "82058"}
+,{"city": "JELM", "loc": [-105.925727, 41.145723], "pop": 470, "state": "WY", "_id": "82063"}
+,{"city": "LARAMIE", "loc": [-105.581146, 41.312907], "pop": 29327, "state": "WY", "_id": "82070"}
+,{"city": "MC FADDEN", "loc": [-106.137861, 41.6327], "pop": 79, "state": "WY", "_id": "82080"}
+,{"city": "MERIDEN", "loc": [-104.286606, 41.54236], "pop": 40, "state": "WY", "_id": "82081"}
+,{"city": "PINE BLUFFS", "loc": [-104.066591, 41.178799], "pop": 1082, "state": "WY", "_id": "82082"}
+,{"city": "ROCK RIVER", "loc": [-105.974629, 41.746073], "pop": 236, "state": "WY", "_id": "82083"}
+,{"city": "TIE SIDING", "loc": [-105.446222, 41.052785], "pop": 19, "state": "WY", "_id": "82084"}
+,{"city": "FISHING BRIDGE", "loc": [-110.674366, 44.853913], "pop": 443, "state": "WY", "_id": "82190"}
+,{"city": "WHEATLAND", "loc": [-104.967852, 42.049467], "pop": 5952, "state": "WY", "_id": "82201"}
+,{"city": "CHUGWATER", "loc": [-104.817916, 41.748668], "pop": 295, "state": "WY", "_id": "82210"}
+,{"city": "FORT LARAMIE", "loc": [-104.522595, 42.213314], "pop": 325, "state": "WY", "_id": "82212"}
+,{"city": "GLENDO", "loc": [-105.000013, 42.500352], "pop": 471, "state": "WY", "_id": "82213"}
+,{"city": "GUERNSEY", "loc": [-104.751164, 42.265513], "pop": 1319, "state": "WY", "_id": "82214"}
+,{"city": "HARTVILLE", "loc": [-104.729564, 42.33339], "pop": 108, "state": "WY", "_id": "82215"}
+,{"city": "HAWK SPRINGS", "loc": [-104.329498, 41.741481], "pop": 125, "state": "WY", "_id": "82217"}
+,{"city": "JAY EM", "loc": [-104.311437, 42.357399], "pop": 399, "state": "WY", "_id": "82219"}
+,{"city": "KEELINE", "loc": [-104.720277, 42.839062], "pop": 209, "state": "WY", "_id": "82220"}
+,{"city": "LAGRANGE", "loc": [-104.19738, 41.642311], "pop": 413, "state": "WY", "_id": "82221"}
+,{"city": "LANCE CREEK", "loc": [-104.544958, 43.231636], "pop": 181, "state": "WY", "_id": "82222"}
+,{"city": "LINGLE", "loc": [-104.331992, 42.134624], "pop": 714, "state": "WY", "_id": "82223"}
+,{"city": "LOST SPRINGS", "loc": [-104.920901, 42.729835], "pop": 6, "state": "WY", "_id": "82224"}
+,{"city": "LUSK", "loc": [-104.465076, 42.765953], "pop": 1724, "state": "WY", "_id": "82225"}
+,{"city": "SHAWNEE", "loc": [-105.032447, 42.839464], "pop": 137, "state": "WY", "_id": "82229"}
+,{"city": "TORRINGTON", "loc": [-104.191662, 42.062377], "pop": 9575, "state": "WY", "_id": "82240"}
+,{"city": "VAN TASSELL", "loc": [-104.315073, 42.830004], "pop": 385, "state": "WY", "_id": "82242"}
+,{"city": "VETERAN", "loc": [-104.370899, 41.982091], "pop": 148, "state": "WY", "_id": "82243"}
+,{"city": "YODER", "loc": [-104.353507, 41.912018], "pop": 674, "state": "WY", "_id": "82244"}
+,{"city": "RAWLINS", "loc": [-107.234883, 41.795131], "pop": 9914, "state": "WY", "_id": "82301"}
+,{"city": "JEFFREY CITY", "loc": [-107.872422, 42.540201], "pop": 253, "state": "WY", "_id": "82310"}
+,{"city": "BAGGS", "loc": [-107.668733, 41.031191], "pop": 384, "state": "WY", "_id": "82321"}
+,{"city": "BAIROIL", "loc": [-107.563288, 42.232721], "pop": 236, "state": "WY", "_id": "82322"}
+,{"city": "DIXON", "loc": [-107.560354, 41.044631], "pop": 253, "state": "WY", "_id": "82323"}
+,{"city": "ENCAMPMENT", "loc": [-106.780285, 41.205353], "pop": 946, "state": "WY", "_id": "82325"}
+,{"city": "HANNA", "loc": [-106.528283, 41.87264], "pop": 1585, "state": "WY", "_id": "82327"}
+,{"city": "MEDICINE BOW", "loc": [-106.201228, 41.903002], "pop": 409, "state": "WY", "_id": "82329"}
+,{"city": "RYAN PARK", "loc": [-106.797538, 41.446293], "pop": 2462, "state": "WY", "_id": "82331"}
+,{"city": "SAVERY", "loc": [-107.42338, 41.039485], "pop": 97, "state": "WY", "_id": "82332"}
+,{"city": "SINCLAIR", "loc": [-107.109083, 41.779741], "pop": 530, "state": "WY", "_id": "82334"}
+,{"city": "WAMSUTTER", "loc": [-108.151674, 41.658278], "pop": 516, "state": "WY", "_id": "82336"}
+,{"city": "WORLAND", "loc": [-107.95626, 44.013796], "pop": 7693, "state": "WY", "_id": "82401"}
+,{"city": "BASIN", "loc": [-108.043787, 44.378765], "pop": 1580, "state": "WY", "_id": "82410"}
+,{"city": "BURLINGTON", "loc": [-108.432669, 44.444218], "pop": 435, "state": "WY", "_id": "82411"}
+,{"city": "CODY", "loc": [-109.075611, 44.523135], "pop": 11985, "state": "WY", "_id": "82414"}
+,{"city": "DEAVER", "loc": [-108.597948, 44.925695], "pop": 499, "state": "WY", "_id": "82421"}
+,{"city": "GREYBULL", "loc": [-108.079503, 44.491881], "pop": 2460, "state": "WY", "_id": "82426"}
+,{"city": "HYATTVILLE", "loc": [-107.605318, 44.250693], "pop": 97, "state": "WY", "_id": "82428"}
+,{"city": "LOVELL", "loc": [-108.414107, 44.833637], "pop": 4322, "state": "WY", "_id": "82431"}
+,{"city": "MANDERSON", "loc": [-107.953423, 44.311931], "pop": 657, "state": "WY", "_id": "82432"}
+,{"city": "MEETEETSE", "loc": [-108.950045, 44.196202], "pop": 1010, "state": "WY", "_id": "82433"}
+,{"city": "OTTO", "loc": [-108.304673, 44.405644], "pop": 120, "state": "WY", "_id": "82434"}
+,{"city": "POWELL", "loc": [-108.777322, 44.756077], "pop": 9608, "state": "WY", "_id": "82435"}
+,{"city": "SHELL", "loc": [-107.824333, 44.563649], "pop": 355, "state": "WY", "_id": "82441"}
+,{"city": "TEN SLEEP", "loc": [-107.415305, 43.997848], "pop": 695, "state": "WY", "_id": "82442"}
+,{"city": "GRASS CREEK", "loc": [-108.231297, 43.662152], "pop": 4809, "state": "WY", "_id": "82443"}
+,{"city": "WAPITI", "loc": [-109.432629, 44.47967], "pop": 214, "state": "WY", "_id": "82450"}
+,{"city": "GAS HILLS", "loc": [-108.411335, 43.045786], "pop": 15471, "state": "WY", "_id": "82501"}
+,{"city": "ARAPAHOE", "loc": [-108.494134, 42.967936], "pop": 605, "state": "WY", "_id": "82510"}
+,{"city": "CROWHEART", "loc": [-109.296043, 43.371569], "pop": 157, "state": "WY", "_id": "82512"}
+,{"city": "DUBOIS", "loc": [-109.649175, 43.545136], "pop": 1493, "state": "WY", "_id": "82513"}
+,{"city": "FORT WASHAKIE", "loc": [-108.896445, 43.004761], "pop": 1131, "state": "WY", "_id": "82514"}
+,{"city": "KINNEAR", "loc": [-108.615428, 43.131777], "pop": 420, "state": "WY", "_id": "82516"}
+,{"city": "ETHETE", "loc": [-108.738288, 42.859678], "pop": 11770, "state": "WY", "_id": "82520"}
+,{"city": "PAVILLION", "loc": [-108.604394, 43.198515], "pop": 1681, "state": "WY", "_id": "82523"}
+,{"city": "CASPER", "loc": [-106.316571, 42.845763], "pop": 21224, "state": "WY", "_id": "82601"}
+,{"city": "CASPER", "loc": [-106.389634, 42.826073], "pop": 24812, "state": "WY", "_id": "82604"}
+,{"city": "CASPER", "loc": [-106.280649, 42.840629], "pop": 12789, "state": "WY", "_id": "82609"}
+,{"city": "ALCOVA", "loc": [-106.610199, 42.568383], "pop": 10, "state": "WY", "_id": "82620"}
+,{"city": "ARMINTO", "loc": [-107.343611, 43.120883], "pop": 14, "state": "WY", "_id": "82630"}
+,{"city": "DOUGLAS", "loc": [-105.385484, 42.762558], "pop": 7502, "state": "WY", "_id": "82633"}
+,{"city": "EVANSVILLE", "loc": [-106.263886, 42.861384], "pop": 1621, "state": "WY", "_id": "82636"}
+,{"city": "GLENROCK", "loc": [-105.857911, 42.867495], "pop": 3483, "state": "WY", "_id": "82637"}
+,{"city": "KAYCEE", "loc": [-106.56323, 43.723625], "pop": 876, "state": "WY", "_id": "82639"}
+,{"city": "LYSITE", "loc": [-107.648781, 43.328417], "pop": 81, "state": "WY", "_id": "82642"}
+,{"city": "MIDWEST", "loc": [-106.266818, 43.410829], "pop": 756, "state": "WY", "_id": "82643"}
+,{"city": "SHOSHONI", "loc": [-108.100667, 43.245707], "pop": 600, "state": "WY", "_id": "82649"}
+,{"city": "NEWCASTLE", "loc": [-104.226205, 43.851098], "pop": 4833, "state": "WY", "_id": "82701"}
+,{"city": "ALADDIN", "loc": [-104.19314, 44.747331], "pop": 230, "state": "WY", "_id": "82710"}
+,{"city": "BEULAH", "loc": [-104.153095, 44.573575], "pop": 187, "state": "WY", "_id": "82712"}
+,{"city": "DEVILS TOWER", "loc": [-104.793638, 44.617067], "pop": 119, "state": "WY", "_id": "82714"}
+,{"city": "FOUR CORNERS", "loc": [-104.122897, 44.100747], "pop": 38, "state": "WY", "_id": "82715"}
+,{"city": "GILLETTE", "loc": [-105.497442, 44.282009], "pop": 25968, "state": "WY", "_id": "82716"}
+,{"city": "HULETT", "loc": [-104.617367, 44.735222], "pop": 1054, "state": "WY", "_id": "82720"}
+,{"city": "PINE HAVEN", "loc": [-104.905904, 44.299932], "pop": 1820, "state": "WY", "_id": "82721"}
+,{"city": "OSAGE", "loc": [-104.4226, 43.998982], "pop": 292, "state": "WY", "_id": "82723"}
+,{"city": "OSHOTO", "loc": [-104.937659, 44.583023], "pop": 57, "state": "WY", "_id": "82724"}
+,{"city": "RECLUSE", "loc": [-105.776005, 44.786149], "pop": 183, "state": "WY", "_id": "82725"}
+,{"city": "ROZET", "loc": [-105.245875, 44.305825], "pop": 900, "state": "WY", "_id": "82727"}
+,{"city": "SUNDANCE", "loc": [-104.383696, 44.405755], "pop": 1827, "state": "WY", "_id": "82729"}
+,{"city": "UPTON", "loc": [-104.635159, 44.089271], "pop": 1355, "state": "WY", "_id": "82730"}
+,{"city": "GILLETTE", "loc": [-105.373236, 44.835689], "pop": 187, "state": "WY", "_id": "82731"}
+,{"city": "WRIGHT", "loc": [-105.532327, 43.829349], "pop": 2132, "state": "WY", "_id": "82732"}
+,{"city": "SHERIDAN", "loc": [-106.964795, 44.78486], "pop": 20025, "state": "WY", "_id": "82801"}
+,{"city": "ARVADA", "loc": [-106.109191, 44.689876], "pop": 107, "state": "WY", "_id": "82831"}
+,{"city": "BANNER", "loc": [-106.87331, 44.590804], "pop": 983, "state": "WY", "_id": "82832"}
+,{"city": "BUFFALO", "loc": [-106.70726, 44.34847], "pop": 5269, "state": "WY", "_id": "82834"}
+,{"city": "CLEARMONT", "loc": [-106.458071, 44.66101], "pop": 350, "state": "WY", "_id": "82835"}
+,{"city": "DAYTON", "loc": [-107.302605, 44.877958], "pop": 986, "state": "WY", "_id": "82836"}
+,{"city": "PARKMAN", "loc": [-107.325393, 44.964965], "pop": 148, "state": "WY", "_id": "82838"}
+,{"city": "ACME", "loc": [-107.159833, 44.904789], "pop": 868, "state": "WY", "_id": "82839"}
+,{"city": "STORY", "loc": [-107.049229, 44.607169], "pop": 63, "state": "WY", "_id": "82842"}
+,{"city": "RANCHESTER", "loc": [-107.303429, 44.768228], "pop": 32, "state": "WY", "_id": "82844"}
+,{"city": "ROCK SPRINGS", "loc": [-109.230047, 41.605957], "pop": 23927, "state": "WY", "_id": "82901"}
+,{"city": "BONDURANT", "loc": [-110.335287, 43.223798], "pop": 116, "state": "WY", "_id": "82922"}
+,{"city": "BOULDER", "loc": [-109.540105, 42.688146], "pop": 112, "state": "WY", "_id": "82923"}
+,{"city": "CORA", "loc": [-109.915351, 43.139921], "pop": 30, "state": "WY", "_id": "82925"}
+,{"city": "EVANSTON", "loc": [-110.963067, 41.260947], "pop": 12577, "state": "WY", "_id": "82930"}
+,{"city": "FORT BRIDGER", "loc": [-110.347428, 41.28282], "pop": 3777, "state": "WY", "_id": "82933"}
+,{"city": "GREEN RIVER", "loc": [-109.471445, 41.51959], "pop": 13956, "state": "WY", "_id": "82935"}
+,{"city": "LONETREE", "loc": [-110.172862, 41.049144], "pop": 24, "state": "WY", "_id": "82936"}
+,{"city": "LYMAN", "loc": [-110.292629, 41.329136], "pop": 2327, "state": "WY", "_id": "82937"}
+,{"city": "MC KINNON", "loc": [-109.874536, 41.040898], "pop": 188, "state": "WY", "_id": "82938"}
+,{"city": "PINEDALE", "loc": [-109.856088, 42.854331], "pop": 2326, "state": "WY", "_id": "82941"}
+,{"city": "COLTER BAY", "loc": [-110.766277, 43.460734], "pop": 9078, "state": "WY", "_id": "83001"}
+,{"city": "KELLY", "loc": [-110.544186, 43.609361], "pop": 203, "state": "WY", "_id": "83011"}
+,{"city": "MOOSE", "loc": [-110.857493, 43.771201], "pop": 519, "state": "WY", "_id": "83012"}
+,{"city": "MORAN", "loc": [-110.329429, 43.881635], "pop": 191, "state": "WY", "_id": "83013"}
+,{"city": "WILSON", "loc": [-110.874199, 43.49922], "pop": 1099, "state": "WY", "_id": "83014"}
+,{"city": "KEMMERER", "loc": [-110.52834, 41.788661], "pop": 4258, "state": "WY", "_id": "83101"}
+,{"city": "AFTON", "loc": [-110.941976, 42.712829], "pop": 3201, "state": "WY", "_id": "83110"}
+,{"city": "AUBURN", "loc": [-110.994415, 42.805114], "pop": 488, "state": "WY", "_id": "83111"}
+,{"city": "BEDFORD", "loc": [-110.95556, 42.932336], "pop": 1177, "state": "WY", "_id": "83112"}
+,{"city": "MARBLETON", "loc": [-110.132954, 42.552059], "pop": 1861, "state": "WY", "_id": "83113"}
+,{"city": "COKEVILLE", "loc": [-110.916419, 42.057983], "pop": 905, "state": "WY", "_id": "83114"}
+,{"city": "DANIEL", "loc": [-110.133624, 42.917629], "pop": 398, "state": "WY", "_id": "83115"}
+,{"city": "ETNA", "loc": [-111.015996, 43.138606], "pop": 524, "state": "WY", "_id": "83118"}
+,{"city": "FREEDOM", "loc": [-111.029178, 43.017167], "pop": 212, "state": "WY", "_id": "83120"}
+,{"city": "GROVER", "loc": [-110.924392, 42.796472], "pop": 335, "state": "WY", "_id": "83122"}
+,{"city": "LA BARGE", "loc": [-110.210865, 42.24734], "pop": 606, "state": "WY", "_id": "83123"}
+,{"city": "SMOOT", "loc": [-110.922351, 42.619238], "pop": 414, "state": "WY", "_id": "83126"}
+,{"city": "THAYNE", "loc": [-111.011354, 42.933026], "pop": 505, "state": "WY", "_id": "83127"}
+]

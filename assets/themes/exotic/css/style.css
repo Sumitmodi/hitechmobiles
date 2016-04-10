@@ -1,0 +1,86 @@
+body, html{ font-size:14px; font-family:Calibri; color:#000; background:#e4cfbd url('../img/bg.jpg') no-repeat; background-size: 100%; } 
+
+.headerbg{ background: url('../img/headerbg.jpg') repeat;  position:relative;  }
+.headerBtn{ background:#f79f2b; color:#fff; padding:5px 10px; float:right;margin-left:10px;}
+.headerBtn a{ color: #fff; text-decoration: none;}
+.navbg{ background:#f79f2b; }
+.navbar{ border-radius:0;min-height:30px; margin:0; border:0;  }
+.navbar a{ color:#fff; }
+.navbar li span{ position: absolute;top: 16px;right: -4px; color:#fff; }
+.navbar li:last-child span{ display:none;  }
+.nav > li > a:hover, .nav > li > a:focus, .nav > li.active, .nav .open > a:hover, .nav .open > a:focus{ background:#000 !important; }
+.navbar-brand{ display:none; }
+.navbar-collapse{ margin-left:-15px !important; }
+.bluebg{ background:url('../img/bluebg.png') repeat; }
+.destination{ color:#d7d7d7; padding:15px;   }
+.destination b{ color:#fff; font-size:20px;  }
+.destination ul{ list-style-type:none; padding:0; margin:0; }
+.destination ul li a{ color:#d7d7d7; display:inline-block; padding:5px 0; }
+.destination ul li a:hover{ color:#fff; }
+.destination hr{  border: 1px solid #55599a; margin:10px 0; }
+.sliderPaddingLeft0{ padding-left:0; }
+.destinationPaddingRight0{ padding-right:0; }
+.content{ background:#fff; min-height: 500px; }
+.content .padding{ padding:10px; }
+.packageBox{ position:relative; display:block; margin-bottom:30px;  }
+.packageBox .image{ height:200px; position:relative; background-size:225% 100%; width:100%; }
+.packageBox .image .hotdeal{ position:absolute; background:url('../img/hotdeal.png') no-repeat; width:58px; height:56px; right:0; top:0;}
+.packageBox  .name{ background:#e2e2e2; padding:5px; height:45px; color:#000; }
+.packageBox .days{ background:#bfbfbf; padding:5px;  height:45px; color:#000; text-align:center; }
+.packageBox .days div{ display:block; font-size:10px; }
+.packageBox p{ color:#000; text-decoration: none; line-height: 150%; text-align: justify; }
+footer { color:#fff; }
+footer .padding{ padding:10px; }
+footer p{ line-height:120%; }
+footer a, footer a:hover{ color:#fff; }
+footer .travel_award{ padding-right:10px; }
+footer hr.whiteline{ background: #fff; }
+footer .websiteLabel{ text-align:right;  }
+.desktopVersion{ display:block; }
+.mobileVersion{ display:none; }
+.destinationmenu{ display:none !important; }
+.clear{ clear:both; }
+@media (max-width: 991px) {
+	.navbar-brand{ display:inline-block; }
+	.headerBtn{ float:none; margin:0 0 5px 0; }
+	.sliderPaddingLeft0{ padding-left:15px; }
+	.destinationPaddingRight0{ padding-right:15px; }
+	footer .websiteLabel{ text-align:left; }
+	.mobileVersion{ display:block; }
+	.desktopVersion{ display:none; }
+	.destinationmenu{ display:block !important; }
+} 
+@media (max-width: 767px) {
+	.navbar-toggle{ background:#fff; }
+	.navbar-toggle .icon-bar{ background:#000; }
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{ font-family:Calibri; }
+
+
+h2{ color:#f79f2b; font-size:30px; margin:0 0 5px 0; }
+h2 span{ color:#373577; }
+p{ line-height:150%; }
+ 
+h3{ color:#ff6600; font-size:24px; margin:0;}
+/* Common Functions  */
+.floatright{ float:right; }
+.floatleft{ float:left; }
+.textright{ text-align:right; }
+.textcenter{ text-align:center; }
+.paddingTop10{ padding-top:10px; }
+.paddingTop20{ padding-top:20px; }
+.padding5{ padding:5px; }
+.padding10{ padding:10px; }
+.paddingBottom10{ padding-bottom:10px; }
+.paddingBottom20{ padding-bottom:20px; }
+.paddingLeft0{ padding-left:0; }
+.paddingRight0{ padding-right:0; }
+.fontbold{ font-weight:bold; }
+.marginTop5{ margin-top:5px;}
+.marginTop10{ margin-top:10px;}
+.marginTop15{ margin-top:15px;}
+.marginLeft5{ margin-left:5px;}
+.font12{ font-size:12px; }
+.font10{ font-size:10px; }
+.price{ font-size:20px; color:#fff; }
+.error{ color: red; }

@@ -1,0 +1,313 @@
+<style type="text/css">
+    div#editor
+    {
+        height:320px;
+    }
+    .grid
+    {
+        min-height: 100%;
+    }
+    .ui-grid-cell-contents
+    {
+        text-align: left;
+        color:#333;
+    }
+    .grid div.red,.grid div.red *
+    {
+        color:rgba(255, 0, 0, 0.7) !important;
+    }
+    select
+    {
+        z-index: 999999;
+    }
+    .custom-header-cell{
+        font-size: 14px;
+        text-align: left;
+        color:#FFFFFF;
+    }
+</style>
+<div class="page page-full page-imgcrop">
+
+    <div class="tbox tbox-sm">
+
+        <div class="tcol w-xxxl bg-tr-white lt">
+
+            <div class="p-15 bg-white b-r b-b">
+                <h4 class="custom-font text-default m-0"><strong>Select</strong> Companies & Emails</h4>
+            </div>
+
+            <div class="p-15 text-center">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search Company Name..." ng-change="filterClients()" ng-model="searchClients"/>
+                    <span class="input-group-btn">
+                        <button class="btn btn-lightred" type="button" ng-click="resetSelected()">Reset</button>
+                    </span>
+                </div>
+
+                <div class="p-0" style="height: 75vh; position: relative;">
+                    <ul class="list-inline tbox m-0">
+                        <li class="tcol p-0" style="width: 310px;">
+                            <div class="grid" ui-grid="clientOpts" ui-grid-selection></div>
+                        </li>
+                        <li class="tcol p-0">
+                            <div class="grid" ui-grid="emailOpts" ui-grid-selection></div>
+                        </li>
+                    </ul>
+                </div>
+                <br/>
+                <div class="footer text-center bg-blue p-0" style="margin-bottom: 0; bottom: 0; position: relative; width: 520px;">
+                    <ul class="list-inline tbox m-0">
+                        <li class="tcol p-10">
+                            <h4 class="m-0">{{selClnts.length}}</h4>
+                            <span class="text-transparent-white">Companies</span>
+                        </li>
+                        <li class="tcol bg-blue dker p-10">
+                            <h4 class="m-0">{{selEmails}}</h4>
+                            <span class="text-transparent-white">Emails</span>
+                        </li>
+                        <li class="tcol p-10">
+                            <h4 class="m-0">{{validEmails}}</h4>
+                            <span class="text-transparent-white">Valid</span>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <div class="tcol">
+            <div class="p-15 bg-white b-b">
+
+                <h4 class="custom-font text-default m-0"><strong>Compose</strong>  Email</h4>
+
+            </div>
+
+            <div class="p-15">
+
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <div class="p-10 bg-white b-a b-solid">
+                            <div class="btn-toolbar pull-right" role="toolbar" >
+                                <div class="btn-group btn-group-md" ng-controller="pageModal">
+                                    <button type="button" class="btn btn-dutch btn-ef btn-ef-3 btn-ef-3c" ng-click="open('placeholder','notify')"><i class="fa fa-code"></i>Placeholders</button>
+                                    <button type="button" class="btn btn-dutch btn-ef btn-ef-3 btn-ef-3c" ng-click="open('test', 'notify')"><i class="icon-envelope-open"></i>Send Test</button>
+                                    <button type="button" class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="splash()">Send Emails <i class="icon-envelope-letter"></i></button>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-1 control-label">Template</label>
+                                <div class="col-sm-3">
+                                    <select class="form-control" name="template" ng-model="template" ng-change="getTemplate(template)">
+                                        <option value="0">No Template</option>
+                                        <option ng-repeat="tpl in templates" value="{{tpl.file}}">{{tpl.name}}</option>
+                                    </select>
+                                </div>
+                                <div class="col-sm-2" ng-controller="pageModal" style="margin-top:5px;">
+                                    <span class="text-cyan text-thin" ng-click="open('create', 'notify')">- Create New</span>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="form-group">
+                                <label class="col-sm-1 control-label">From:</label>
+                                <div class="col-sm-3">
+                                    <select class="form-control" name="sender" ng-model="sender" ng-change="setSender(sender)">
+                                        <option ng-repeat="s in senders" value="{{s}}">{{s}}</option>
+                                    </select>
+                                </div>
+                                <div class="col-sm-2" style="margin-top:5px;" ng-controller="pageModal">
+                                    <span class="text-cyan text-thin" ng-click="open('add', 'notify')">- Add More</span>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="form-group" style="padding-bottom: 20px;">
+                                <div class="col-sm-12">
+                                    <div class="input-group">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default" type="button">Subject</button>
+                                        </span>
+                                        <input type="text" class="form-control" name="subject" ng-value="subject" ng-model="subject" ng-change="setSubject(subject)">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div id="editor" class="ckeditor"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+<div ng-controller="pageModal">
+    <script type="text/ng-template" id="createnew.html">
+        <div class="modal-header">
+        <h3 class="modal-title custom-font">New Email Template</h3>
+        </div>
+        <div class="modal-body">
+        <div class="row">
+        <label class="col-sm-4 control-label">Edit Current:</label>
+        <div class="col-sm-5">
+        <select class="form-control">
+        <option value="No Template">No Template</option>
+        <option value="Default Template">Default Template</option>
+        <option value="Login Reminders">Login Reminders</option>
+        <option value="Negative Balance">Negative Balance</option>
+        </select>
+        </div>
+        </div>
+        <div class="clearline"></div>
+        <br/>
+        <div class="row col-md-12">
+        <label class="col-sm-4 control-label" for="input04">New Template Name</label>
+        <div class="col-sm-5">
+        <input type="text" placeholder="Ex. NewTemplate" id="input04" class="form-control">
+        </div>
+        </div>
+        <br/><hr/>
+        <div class="row">
+        <textarea class="ckeditor" name="editor"></textarea>
+        </div>
+        </div>
+        <div class="modal-footer">
+        <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="ok()">
+        <i class="fa fa-arrow-right"></i> Submit
+        </button>
+        <button class="btn btn-lightred btn-ef btn-ef-4 btn-ef-4c" ng-click="cancel()">
+        <i class="fa fa-arrow-left"></i> Cancel
+        </button>
+        </div>
+    </script>
+    <script type="text/ng-template" id="placeholders.html">
+        <div class="modal-header">
+            <h3 class="modal-title custom-font">Insert placeholders</h3>
+        </div>
+        <div class="modal-body">
+            <div>
+                <p>The following placeholders are available.</p>
+                <ul class="list-type caret-right">
+                    <li>
+                    [[company name]]
+                        <div class="row pull-right">
+                            <a class="btn remove" ng-click="select('[[company name]]')"><i class="fa fa-check"></i> Select</a>
+                        </div>
+                        <div style="clear:right;"></div>
+                    </li>
+                    <li>
+                    [[address]]
+                        <div class="row pull-right">
+                            <a class="btn remove" ng-click="select('[[address]]')"><i class="fa fa-check"></i> Select</a>
+                        </div>
+                        <div style="clear:right;"></div>
+                    </li>
+                    <li>
+                    [[email]]
+                        <div class="row pull-right">
+                            <a class="btn remove" ng-click="select('[[emails]]')"><i class="fa fa-check"></i> Select</a>
+                        </div>
+                        <div style="clear:right;"></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="ok()">
+                <i class="fa fa-arrow-right"></i> Done
+            </button>
+        </div>
+    </script>
+    <script type="text/ng-template" id="addmore.html">
+        <div class="modal-header">
+            <h3 class="modal-title custom-font">Add new sender emails</h3>
+        </div>
+        <div class="modal-body">
+            <div>
+                <p>The following emails will be selected into the sender emails list.</p>
+                <ul class="list-type caret-right">
+                    <li ng-repeat="item in getSenders()">
+                            {{item}}
+                        <div class="row pull-right">
+                            <a class="btn remove" ng-click="remove(this)"><i class="fa fa-times"></i></a>
+                        </div>
+                        <div style="clear:right;"></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="row">
+                <div class="">
+                <div class="col-md-12 col-lg-12" ng-show="messageenabled">
+                    <div class="alert alert-warning alert-dismissable">
+                        <button aria-hidden="true" data-dismiss="alert" class="close" type="button">×</button>
+                        <strong>Warning!</strong> {{message}}
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6">
+                <input class="form-control" name="addemail" ng-model="addemailbox" ng-value="addemailbox" placeholder="Enter new email"/>
+                </div>
+                <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="addSender(addemailbox)"><i class="fa fa-arrow-right"></i> Add</button>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="selectEmails()">
+                <i class="fa fa-arrow-right"></i> Confirm
+            </button>
+            <button class="btn btn-lightred btn-ef btn-ef-4 btn-ef-4c" ng-click="cancel()">
+                <i class="fa fa-arrow-left"></i> Cancel
+            </button>
+        </div>
+    </script>
+    <script type="text/ng-template" id="sendtest.html">
+        <div class="modal-header">
+        <h3 class="modal-title custom-font">Send a test email</h3>
+        </div>
+        <div class="modal-body">
+        <input type="text" name="testemailsender" ng-value="testemailsender" ng-model="testemailsender" ng-change="setTestSender(testemailsender)" placeholder="Enter your email address" class="form-control" ng-if="testactive == 1"/>
+        <span ng-if="testactive==2"><i class="fa-li fa fa-spinner fa-spin"></i> Sending</span>
+        <span ng-if="testactive==3">{{message}}. Closing in {{timeLeft}} seconds</span>
+        <span ng-if="testactive==4">{{message}}</span>
+        </div>
+        <div class="modal-footer">
+        <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="sendTestEmail()" ng-disabled="disabled">
+        <i class="fa fa-arrow-right"></i> Submit
+        </button>
+        <button class="btn btn-lightred btn-ef btn-ef-4 btn-ef-4c" ng-click="cancel()">
+        <i class="fa fa-arrow-left"></i> Cancel
+        </button>
+        </div>
+    </script>
+    <script type="text/ng-template" id="sendemail.html">
+        <div class="modal-header">
+        <h3 class="modal-title custom-font">Are you sure you are ready?</h3>
+        </div>
+        <div class="modal-body">
+        <ul class="nav" ng-if="testactive==1">
+        <li>Companies selected: {{companies.length}}</li>
+        <li>Emails selected: {{emails.length}}</li>
+        </ul>
+        <span ng-if="testactive==2"><i class="fa-li fa fa-spinner fa-spin"></i> Sending</span>
+        <span ng-if="testactive==3">{{message}}. Closing in {{timeLeft}} seconds</span>
+        <span ng-if="testactive==4">{{message}}</span>
+        </div>
+        <div class="modal-footer">
+        <button class="btn btn-success btn-ef btn-ef-3 btn-ef-3c" ng-click="sendEmails()">
+        <i class="fa fa-arrow-right"></i> Lets do it
+        </button>
+        <button class="btn btn-lightred btn-ef btn-ef-4 btn-ef-4c" ng-click="cancel()">
+        <i class="fa fa-arrow-left"></i> Cancel
+        </button>
+        </div>
+    </script>
+</div>

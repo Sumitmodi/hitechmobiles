@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- Main Content -->
+    <div class="container">
+        <!-- <div class="row"> -->
+            <div class="col-md-10">
+                <div class="col-md-6">
+                    <div class="">
+                       <form role="form">
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">General</legend>
+                                  <div class="form-group">
+                                    <label for="text">Part no code</label>
+                                    <input type="text" class="form-control" id="text">
+                                    <span class="help-inline">Part no a unique identifier</span>
+                                  </div>
+                                  <div class="form-group">
+                                    <label for="text">Manufacturer code</label>
+                                    <input type="text" class="form-control" id="text">
+                                  </div>
+                                   <div class="form-group">
+                                    <textarea type="text" class="form-control"></textarea>
+                                  </div>
+                                  <div class="form-group">
+                                    <label for="text">Description(will show on invoices</label>
+                                    <input type="text" class="form-control" id="text" placeholder="Clear screen protector guard">
+                                  </div>
+                                  <div class="form-group">
+                                    <label for="text">Vendor Category(local category)</label>
+                                    <input type="text" class="form-control" id="text" placeholder="Clear screen protector guard">
+                                  </div>
+                        </fieldset>                          
+                        </form>
+                    </div>
+                    <div class="">
+                       <form role="form">
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">Price / Cost</legend>
+                                  <div class="form-group">
+                                    <label for="text">Main price(GST)</label>
+                                    <input type="text" class="form-control" id="text" placeholder="$9.0">
+                                  </div>
+                                  <div class="form-group">
+                                    <div class="checkbox">
+                                      <label><input type="checkbox" value="">Use cost from last received purchase order</label>
+                                    </div>
+                                  </div>
+                                  <div class="row">
+                                    <div class="col-md-4">
+                                      <div class="form-group">
+                                        <label for="text">Cost(ex GST)</label>
+                                        <input type="text" class="form-control" id="text" placeholder="$1.74">
+                                      </div>
+                                    </div>
+                                    <div class="col-md-4"> 
+                                      <div class="form-group">
+                                        <label for="text">Cost(inc GST)</label>
+                                        <input type="text" class="form-control" id="text"  placeholder="$1.74">
+                                      </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                      <div class="form-group">
+                                        <label for="text">Mark-up</label>
+                                        <input type="text" class="form-control" id="text"  placeholder="$1.74">
+                                      </div>
+                                    </div>
+                                  </div>
+                        </fieldset>                          
+                        </form>
+                    </div>
+                    <div class="">
+                       <form role="form">
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">Stock Control</legend>
+                                  <div class="form-group">
+                                    <label for="text">Safety stock control</label>
+                                    <input type="text" class="form-control" id="text" placeholder="0">
+                                    <span class="help-inline"><p>When your safety level is reached. OMINS treats the item as if it is out of stock.</p><p>Detailed help <a href="">here</a></p></span>
+                                  </div>
+                                 
+                        </fieldset>                          
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="">
+                       <form role="form" style="margin-left:10px" >
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">Warehouse / Stock Locations</legend>
+                                    
+                                <div class="col-md-8">
+                                  <div class="form-group">
+                                    <label for="text">Warehouse</label>
+                                    <select type="text" class="form-control" id="text">
+                                        <option>option 1</option>
+                                        <option>option 1</option>
+                                        <option>option 1</option>
+                                    </select>
+                                    <span class="help-inline">Detailed warehouse help <a href="">here</a></span>
+                                  </div>
+                                  <hr>
+                                  <a href="">Add another location</a>
+                                    <div class="radio">
+                                      <label><input type="radio" name="optradio"><input type="text" class="form-control" id="text" ></label><br>
+                                      <span class="help-inline">* Main Location</span><br>
+                                      <span class="help-inline">Detailed location help <a href="">here</a></span>
+                                    </div>
+                                </div>
+                                <div class="col-md-4" style="border-left:1px solid">
+                                    <div class="form-group">
+                                        <label for="text">Buy Now</label><label>
+                                        <input type="text" class="form-control" id="text" placeholder="$1.74"><input type="checkbox" value="">Enable Buy Now</label>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="text">Start</label><label>
+                                        <input type="text" class="form-control" id="text" placeholder="$1.74">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="text">Reserve</label><label>
+                                        <input type="text" class="form-control" id="text" placeholder="$1.74">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="text">Other</label><label>
+                                        <input type="text" class="form-control" id="text" placeholder="$1.74"><input type="checkbox" value="">Enable Buy Now</label>
+                                    </div>                                
+                                </div>
+                        </fieldset> 
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="text">
+                        </div>                         
+                        </form>
+                    </div>
+
+                    <div class="" style="margin-left:10px">
+                       <form role="form">
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">Vendors details</legend>
+                            <div class="col-md-5">
+                                <p>Compatible with</p>
+                            </div>
+                            <div class="col-md-7">
+                                <div class="form-group">
+                                <div class="checkbox">
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                </div>
+                              </div>
+                            </div>
+                                  
+                        </fieldset>                          
+                        </form>
+                    </div>
+                    <div class="" style="margin-left:10px">
+                       <form role="form">
+                        <fieldset class="scheduler-border">
+                          <legend class="scheduler-border">Vendors details</legend>
+                           <!--  <div class="col-md-5">
+                                <label for="text">Shipping required</label><label>
+                            </div>
+                            <div class="col-md-7">
+                                <div class="form-group">
+                                        
+                                </div>
+                            </div> -->
+                            <div class="form-group">
+                                <label class="control-label col-sm-7" for="email">Shipping required:</label>
+                                <div class="col-sm-5">
+                                    <label class="">
+                                          <input type="radio" name="optradio">Yes
+                                        </label>
+                                        <label class="radio-inline">
+                                          <input type="radio" name="optradio">No
+                                        </label>
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label class="control-label col-sm-7" for="">Standard Shipping</label>
+                                <div class="col-sm-5">
+                                  <input type="text" class="form-control" id="text" placeholder="">
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label class="control-label col-sm-7" for="">Secondary Shipping</label>
+                                <div class="col-sm-5">
+                                  <input type="text" class="form-control" id="text" placeholder="">
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <label class="control-label col-sm-7" for="">International Standard Shipping</label>
+                                <div class="col-sm-5">
+                                  <input type="text" class="form-control" id="text" placeholder="">
+                                </div>
+                              </div>
+                               <div class="form-group">
+                                <label class="control-label col-sm-7" for="">International Secondary Shipping</label>
+                                <div class="col-sm-5">
+                                  <input type="text" class="form-control" id="text" placeholder="">
+                                </div>
+                              </div>
+
+                           
+                          <!--   <div class="form-group">
+                              <label class="control-label col-sm-5" for="">Standard Shipping</label>
+                              <div class="col-md-7">
+                                        <input type="text" class="form-control" id="text" placeholder="10">
+                              </div>
+                            </div> -->
+                        </fieldset>                          
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="">
+                    <form role="form">
+                        <fieldset class="scheduler-border">
+                        <legend class="scheduler-border">Attributes</legend>
+                              <div class="form-group">
+                                <label for="text">id</label>
+                                <input type="text" class="form-control" id="text" placeholder="8789">
+                              </div>
+                              <div class="form-group">
+                                <div class="checkbox">
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                </div>
+                                <span class="help-inline">This will remove this product from all market places(auction site or website)</span>
+                              </div>
+                        </fieldset>                          
+                    </form>
+                </div>
+
+                <div class="">
+                    <form role="form">
+                        <fieldset class="scheduler-border">
+                        <legend class="scheduler-border">Stock</legend>
+                              <div class="form-group">
+                                <label for="text">Warehouse / onshelf stock</label>
+                                <input type="text" class="form-control" id="text" placeholder="87">
+                              </div>
+                              <div class="form-group">
+                                <label for="text">Available (to sell)</label>
+                                <input type="text" class="form-control" id="text" placeholder="87">
+                              </div>
+                              <div class="form-group">
+                                <div class="checkbox">
+                                  <label><input type="checkbox" value="">Inactive</label>
+                                </div>
+                                <span class="help-inline">This will remove this product from all market places(auction site or website)</span>
+                              </div>
+                        </fieldset>                          
+                    </form>
+                </div>
+                <div class="">
+                    <form role="form">
+                        <fieldset class="scheduler-border">
+                            <legend class="scheduler-border">Product TM fee Report</legend>
+                            <b>Total Auction: 0</b>
+                            <b>Total Sold: 0</b>
+                            <b>Sell Through: 0.0%</b>
+                            <hr>
+
+                            <b>Promo/listing fees: $0.0</b>
+                            <b>Success fees: $0.0</b>
+                            <b>Paynow fees: $0.0</b>
+                            <b>Total fees: $0.0</b>
+                            <hr>
+
+                            <b>Total Auction: 0</b>
+                            <b>Total Sold: 0</b>
+                            <b>Sell Through: 0.0%</b>
+                            <hr>
+
+                            <b>Total Sales: 0</b>
+                            <b>Total Sales-fees: 0</b>
+                            <b>Avg sale-fees: $0.0</b>
+                            <b>Fees as percentage: 0.0%</b>
+                            <span class="help-inline">Report is for last 60 days<br>Detailed help <a href="">here</a></span>
+                        </fieldset>                          
+                    </form>
+                </div>
+                <div class="">
+                    <form role="form">
+                        <fieldset class="scheduler-border">
+                            <legend class="scheduler-border">Product Type</legend>
+                            <div class="radio">
+                              <label><input type="radio" name="optradio">Inventory</label>
+                            </div>
+                            <div class="radio">
+                              <label><input type="radio" name="optradio">Non-Inventory</label>
+                            </div>
+                            <div class="radio">
+                              <label><input type="radio" name="optradio">Assembly (Advanced)</label>
+                            </div>
+                            <div class="radio">
+                              <label><input type="radio" name="optradio">Virtual (Advanced)</label>
+                            </div>
+                            <hr>
+                            <div class="checkbox">
+                              <label><input type="checkbox" value="">Allow xxxxx</label>
+                            </div>
+                            
+                        </fieldset>                          
+                    </form>
+                </div>
+            </div>
+        <!-- </div> -->
+    </div><!-- container -->
+
+    <hr>
+
+    
+
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
